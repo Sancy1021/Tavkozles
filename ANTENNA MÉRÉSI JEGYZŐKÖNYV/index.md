@@ -38,6 +38,11 @@ A mérés célja, hogy megmérjük és összehasonlítsuk a SMART HD 550, ISKRA 
 - **Belső udvar:** A félig nyitott, szabadban lévő környezetben az ISKRA P20 LOGPER mutatott jobb teljesítményt, mivel a LOGPER irányított antenna jobban illeszkedett a vételi körülményekhez. Az IKUSI FLASHD C48 itt gyengébben teljesített, ami valószínűleg a belső udvar épületei által okozott zavaroknak köszönhető.
 - **Hátsó udvar:** Esős környezetben ismét az ISKRA P20 LOGPER teljesített a legjobban, köszönhetően a kiváló irányítottságnak. A SMART HD 550 antenna továbbra is alulmaradt, ami azt jelzi, hogy zárt környezetben kevésbé hatékony.
 
+  <details>
+    <summary>Smart HD 550:</summary>
+    <img src="https://raw.githubusercontent.com/Sancy1021/Tavkozles2/refs/heads/main/Antenna%20teljes%C3%ADtm%C3%A9ny%20vs.%20jelszint/its_snapshot_0004.bmp"/>
+</details>
+
 ## 4. Kiértékelés
 
 Az alábbiakban található adatok segítségével összehasonlíthatjuk a három antenna nyereségét a három vételi ponton:
