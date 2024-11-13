@@ -63,7 +63,7 @@ A modulátor beállításai állandóak maradnak az egész mérés során, csak 
 <details>
     <summary>ISKRA P2845:</summary>
     2. kép: 490 MHz  
-    !(Antenna teljesítmény vs. jelszint/its_snapshot_0001.bmp)
+    <img src="https://raw.githubusercontent.com/Sancy1021/Tavkozles2/refs/heads/main/Antenna%20teljes%C3%ADtm%C3%A9ny%20vs.%20jelszint/its_snapshot_0002.bmp"/>
 </details>
 
 <br>
@@ -71,7 +71,7 @@ A modulátor beállításai állandóak maradnak az egész mérés során, csak 
 <details>
     <summary>IKUSI FLASHD C48:</summary>
     Kép: 490 MHz  
-    ![IKUSI FLASHD C48](https://github.com/1SzatmariAndras6/TAVKOZLES2/blob/main/JEGYZOKONYV/03.%20Antenna%20teljesítmény%20vs.%20jelszint/its_snapshot_0003.bmp)
+    <img src="https://raw.githubusercontent.com/Sancy1021/Tavkozles2/refs/heads/main/Antenna%20teljes%C3%ADtm%C3%A9ny%20vs.%20jelszint/its_snapshot_0001.bmp"/>
 </details>
 
 ---
