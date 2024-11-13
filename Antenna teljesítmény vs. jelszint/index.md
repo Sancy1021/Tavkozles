@@ -38,8 +38,8 @@ A modulátor beállításai állandóak maradnak az egész mérés során, csak 
 
 | **Antenna Típusa**     | **RF Frekvencia (MHz)** | **Jelszint (dBm)** | **Bitsebesség (Mbps)** | **MER Érték (dB)** |
 |------------------------|-------------------------|---------------------|------------------------|--------------------|
-| ISKRA P20 LOGPER       | 490                     | [eredmény]          | [eredmény]             | [eredmény]         |
-| ISKRA P2845            | 490                     | [-56,4dBm]          | [eredmény]             | [eredmény]         |
+| ISKRA P20 LOGPER       | 490                     | [-56,5dBm]          | [9,2Mbps]              | [27,3dB]           |
+| ISKRA P2845            | 490                     | [-56,4dBm]          | [9,5Mbps]              | [27,7dB]           |
 | IKUSI FLASHD C48       | 490                     | [eredmény]          | [eredmény]             | [eredmény]         |
 
 ### 4.2. Mérés 2: 610 MHz Frekvencián
