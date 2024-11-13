@@ -40,13 +40,14 @@ A mérés célja, hogy megmérjük és összehasonlítsuk a SMART HD 550, ISKRA 
 
   <details>
     <summary>Frekvencia Sáv:</summary> 
-    <img src=https://raw.githubusercontent.com/Sancy1021/Tavkozles2/refs/heads/main/ANTENNA%20M%C3%89R%C3%89SI%20JEGYZ%C5%90K%C3%96NYV/its_snapshot_0005.bmp"/>
+    <img src="https://raw.githubusercontent.com/Sancy1021/Tavkozles2/refs/heads/main/ANTENNA%20M%C3%89R%C3%89SI%20JEGYZ%C5%90K%C3%96NYV/its_snapshot_0005.bmp"/>
+    
   </details>
 
   <br>
  
   <details>
-    <summary>Smart HD 550:</summary>
+    <summary>SMART HD 550:</summary>
     <img src="https://raw.githubusercontent.com/Sancy1021/Tavkozles2/refs/heads/main/ANTENNA%20M%C3%89R%C3%89SI%20JEGYZ%C5%90K%C3%96NYV/its_snapshot_0004.bmp"/>
 
     <img src="https://raw.githubusercontent.com/Sancy1021/Tavkozles2/refs/heads/main/ANTENNA%20M%C3%89R%C3%89SI%20JEGYZ%C5%90K%C3%96NYV/its_snapshot_0017.bmp"/>
@@ -57,7 +58,7 @@ A mérés célja, hogy megmérjük és összehasonlítsuk a SMART HD 550, ISKRA 
    <br>
 
   <details>
-    <summary>Smart HD 550:</summary>
+    <summary>ISKRA P20 LOGPER::</summary>
     <img src="https://raw.githubusercontent.com/Sancy1021/Tavkozles2/refs/heads/main/ANTENNA%20M%C3%89R%C3%89SI%20JEGYZ%C5%90K%C3%96NYV/its_snapshot_0007.bmp"/>
 
     <img src="https://raw.githubusercontent.com/Sancy1021/Tavkozles2/refs/heads/main/ANTENNA%20M%C3%89R%C3%89SI%20JEGYZ%C5%90K%C3%96NYV/its_snapshot_0015.bmp"/>
@@ -67,7 +68,12 @@ A mérés célja, hogy megmérjük és összehasonlítsuk a SMART HD 550, ISKRA 
 
    <br>
 
-  
+   <details>
+    <summary>ISKRA P20 LOGPER::</summary>
+    <img src="https://raw.githubusercontent.com/Sancy1021/Tavkozles2/refs/heads/main/ANTENNA%20M%C3%89R%C3%89SI%20JEGYZ%C5%90K%C3%96NYV/its_snapshot_0006.bmp"/>
+
+    <img src="https://raw.githubusercontent.com/Sancy1021/Tavkozles2/refs/heads/main/ANTENNA%20M%C3%89R%C3%89SI%20JEGYZ%C5%90K%C3%96NYV/its_snapshot_0010.bmp"/>
+  </details>
    
 
 ## 4. Kiértékelés
