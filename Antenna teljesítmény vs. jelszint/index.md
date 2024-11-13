@@ -74,17 +74,20 @@ A modulátor beállításai állandóak maradnak az egész mérés során, csak 
     <img src="https://raw.githubusercontent.com/Sancy1021/Tavkozles2/refs/heads/main/Antenna%20teljes%C3%ADtm%C3%A9ny%20vs.%20jelszint/its_snapshot_0003.bmp"/>
 </details>
 
+<br>
+
 <details>
     <summary>Diagram:</summary>
     Kép: 490 MHz  
-   <img src="https://raw.githubusercontent.com/Sancy1021/Tavkozles2/refs/heads/main/Antenna%20teljes%C3%ADtm%C3%A9ny%20vs.%20jelszint/its_snapshot_0004.bmp"/>
+   <img src="https://raw.githubusercontent.com/Sancy1021/Tavkozles2/refs/heads/main/Antenna%20teljes%C3%ADtm%C3%A9ny%20vs.%20jelszint/its_snapshot_0004.bmp.png"/>
 </details>
 
+<br>
 
 <details>
     <summary>Grafikon:</summary>
     Kép: 490 MHz  
-   <img src="https://raw.githubusercontent.com/Sancy1021/Tavkozles2/refs/heads/main/Antenna%20teljes%C3%ADtm%C3%A9ny%20vs.%20jelszint/its_snapshot_0005.bmp"/>
+   <img src="https://raw.githubusercontent.com/Sancy1021/Tavkozles2/refs/heads/main/Antenna%20teljes%C3%ADtm%C3%A9ny%20vs.%20jelszint/its_snapshot_0005.bmp.png"/>
 </details>
 
 ---
