@@ -86,6 +86,12 @@ Az alábbiakban található adatok segítségével összehasonlíthatjuk a háro
 | ISKRA P20 LOGPER      | -49.4 dBm                    | -42.7 dBm                        | -48.1 dBm                        |
 | IKUSI FLASHD C48      | -41.9 dBm                    | -50.9 dBm                        | -45.9 dBm                        |
 
+<details>
+    <summary>Frekvencia Sáv:</summary> 
+    <img src="https://raw.githubusercontent.com/Sancy1021/Tavkozles2/refs/heads/main/ANTENNA%20M%C3%89R%C3%89SI%20JEGYZ%C5%90K%C3%96NYV/its_snapshot_0000.bmp.png"/>
+    
+  </details>
+
 ### Megállapítások:
 1. **Vételi pont V3 labor:**  
    - Legjobb: IKUSI FLASHD C48 (-41.9 dBm)
