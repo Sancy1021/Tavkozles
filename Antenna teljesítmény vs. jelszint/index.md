@@ -63,7 +63,7 @@ A modulátor beállításai állandóak maradnak az egész mérés során, csak 
 <details>
     <summary>ISKRA P2845:</summary>
     2. kép: 490 MHz  
-    ![Antenna teljesítmény vs. jelszint/its_snapshot_0001.bmp)
+    !(Antenna teljesítmény vs. jelszint/its_snapshot_0001.bmp)
 </details>
 
 <br>
