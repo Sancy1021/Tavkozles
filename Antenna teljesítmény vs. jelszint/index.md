@@ -50,6 +50,30 @@ A modulátor beállításai állandóak maradnak az egész mérés során, csak 
 | ISKRA P2845            | 610                     | [eredmény]          | [eredmény]             | [eredmény]         |
 | IKUSI FLASHD C48       | 610                     | [eredmény]          | [eredmény]             | [eredmény]         |
 
+### Mért képek:
+
+<details>
+    <summary>Iskra P20 LOGPER:</summary>
+    Kép: 490 MHz  
+    ![Iskra P20 LOGPER](https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/its_snapshot_0005.bmp)
+</details>
+
+<br>
+
+<details>
+    <summary>ISKRA P2845:</summary>
+    2. kép: 490 MHz  
+    ![ISKRA P2845](https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/03.%20Antenna%20teljesítmény%20vs.%20jelszint/its_snapshot_0002.bmp)
+</details>
+
+<br>
+
+<details>
+    <summary>IKUSI FLASHD C48:</summary>
+    Kép: 490 MHz  
+    ![IKUSI FLASHD C48](https://github.com/1SzatmariAndras6/TAVKOZLES2/blob/main/JEGYZOKONYV/03.%20Antenna%20teljesítmény%20vs.%20jelszint/its_snapshot_0003.bmp)
+</details>
+
 ---
 
 ## 5. Kiértékelés
