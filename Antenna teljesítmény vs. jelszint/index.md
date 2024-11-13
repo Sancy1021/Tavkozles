@@ -26,20 +26,21 @@
 - **Moduláció**: 16-QAM
 - **Sávszélesség**: 8 MHz
 - **Jelszint**: -10 dBm
-
+- **Antenna Magasságai**: 144cm 
+   
 A modulátor beállításai állandóak maradnak az egész mérés során, csak az antenna típusa változik.
 
 ---
 
 ## 4. Mérési Eredmények
 
-### 4.1. Mérés 1: 522 MHz Frekvencián
+### 4.1. Mérés 1: 490 MHz Frekvencián
 
 | **Antenna Típusa**     | **RF Frekvencia (MHz)** | **Jelszint (dBm)** | **Bitsebesség (Mbps)** | **MER Érték (dB)** |
 |------------------------|-------------------------|---------------------|------------------------|--------------------|
-| ISKRA P20 LOGPER       | 522                     | [eredmény]          | [eredmény]             | [eredmény]         |
-| ISKRA P2845            | 522                     | [eredmény]          | [eredmény]             | [eredmény]         |
-| IKUSI FLASHD C48       | 522                     | [eredmény]          | [eredmény]             | [eredmény]         |
+| ISKRA P20 LOGPER       | 490                     | [eredmény]          | [eredmény]             | [eredmény]         |
+| ISKRA P2845            | 490                     | [-56,4dBm]          | [eredmény]             | [eredmény]         |
+| IKUSI FLASHD C48       | 490                     | [eredmény]          | [eredmény]             | [eredmény]         |
 
 ### 4.2. Mérés 2: 610 MHz Frekvencián
 
