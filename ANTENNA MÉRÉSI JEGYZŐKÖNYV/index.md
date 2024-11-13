@@ -4,7 +4,6 @@
 **Mérés időpontja:** 2024.10.09  
 **Mérő műszerek:** METEK HDD  
 **Felelős személy:** Visnyei Sándor 
-
 **Cél:** Antennák nyereségének mérése  
 
 ## 1. Bevezetés
