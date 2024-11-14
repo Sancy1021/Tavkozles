@@ -48,7 +48,7 @@ A mérés célja, hogy megmérjük és összehasonlítsuk a SMART HD 550, ISKRA 
  
   <details>
     <summary>SMART HD 550:</summary>
-    <img src="https://raw.githubusercontent.com/Sancy1021/Tavkozles2/refs/heads/main/Antenna%20M%C3%A9r%C3%A9si%20Jegyz%C5%91k%C3%B6nyv/its_snapshot_0000.bmp.png"/>
+    <img src="https://raw.githubusercontent.com/Sancy1021/Tavkozles2/refs/heads/main/Antenna%20M%C3%A9r%C3%A9si%20Jegyz%C5%91k%C3%B6nyv/its_snapshot_0004.bmp"/>
 
     <img src="https://sancy1021.github.io/Tavkozles2/Antenna%C3%Mérési%C3%Jegyzőkönyv/its_snapshot_0017.bmp"/>
      
