@@ -55,7 +55,7 @@ A modulátor beállításai állandóak maradnak az egész mérés során, csak 
 <details>
     <summary>Iskra P20 LOGPER:</summary>
     Kép: 490 MHz  
-   <img src="https://raw.githubusercontent.com/Sancy1021/Tavkozles2/refs/heads/main/Antenna%20teljes%C3%ADtm%C3%A9ny%20vs.%20jelszint/its_snapshot_0001.bmp"/>
+   <img src="https://sancy1021.github.io/Tavkozles2/Antenna%20teljes%C3%ADtm%C3%A9ny/its_snapshot_0001.bmp"/>
 </details>
 
 <br>
@@ -63,7 +63,7 @@ A modulátor beállításai állandóak maradnak az egész mérés során, csak 
 <details>
     <summary>ISKRA P2845:</summary>
     2. kép: 490 MHz  
-    <img src="https://raw.githubusercontent.com/Sancy1021/Tavkozles2/refs/heads/main/Antenna%20teljes%C3%ADtm%C3%A9ny%20vs.%20jelszint/its_snapshot_0002.bmp"/>
+    <img src="https://sancy1021.github.io/Tavkozles2/Antenna%20teljes%C3%ADtm%C3%A9ny/its_snapshot_0002.bmp"/>
 </details>
 
 <br>
@@ -71,7 +71,7 @@ A modulátor beállításai állandóak maradnak az egész mérés során, csak 
 <details>
     <summary>IKUSI FLASHD C48:</summary>
     Kép: 490 MHz  
-    <img src="https://raw.githubusercontent.com/Sancy1021/Tavkozles2/refs/heads/main/Antenna%20teljes%C3%ADtm%C3%A9ny%20vs.%20jelszint/its_snapshot_0003.bmp"/>
+    <img src="https://sancy1021.github.io/Tavkozles2/Antenna%20teljes%C3%ADtm%C3%A9ny/its_snapshot_0003.bmp"/>
 </details>
 
 <br>
@@ -79,7 +79,7 @@ A modulátor beállításai állandóak maradnak az egész mérés során, csak 
 <details>
     <summary>Grafikon:</summary>
     Kép: 490 MHz  
-   <img src="https://raw.githubusercontent.com/Sancy1021/Tavkozles2/refs/heads/main/Antenna%20teljes%C3%ADtm%C3%A9ny%20vs.%20jelszint/its_snapshot_0004.bmp.png"/>
+   <img src="https://sancy1021.github.io/Tavkozles2/Antenna%20teljes%C3%ADtm%C3%A9ny/its_snapshot_0004.bmp.png"/>
 </details>
 
 <br>
@@ -87,7 +87,7 @@ A modulátor beállításai állandóak maradnak az egész mérés során, csak 
 <details>
     <summary>Diagram:</summary>
     Kép: 490 MHz  
-   <img src="https://raw.githubusercontent.com/Sancy1021/Tavkozles2/refs/heads/main/Antenna%20teljes%C3%ADtm%C3%A9ny%20vs.%20jelszint/its_snapshot_0005.bmp.png"/>
+   <img src="https://sancy1021.github.io/Tavkozles2/Antenna%20teljes%C3%ADtm%C3%A9ny/its_snapshot_0005.bmp.png"/>
 </details>
 
 ---
