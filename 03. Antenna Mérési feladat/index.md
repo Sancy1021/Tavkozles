@@ -40,7 +40,7 @@ A mérés célja, hogy megmérjük és összehasonlítsuk a SMART HD 550, ISKRA 
 
   <details>
     <summary>Frekvencia Sáv:</summary> 
-    <img src="https://sancy1021.github.io/Tavkozles/03. Antenna Mérési feladat/its_snapshot_0005.bmp/>
+    <img src="https://sancy1021.github.io/Tavkozles/03. Antenna Mérési feladat/its_snapshot_0005.bmp"/>
     
   </details>
 
@@ -48,31 +48,31 @@ A mérés célja, hogy megmérjük és összehasonlítsuk a SMART HD 550, ISKRA 
  
   <details>
     <summary>SMART HD 550:</summary>
-    <img src="https://raw.githubusercontent.com/Sancy1021/Tavkozles/refs/heads/main/Antenna%20M%C3%A9r%C3%A9si%20Jegyz%C5%91k%C3%B6nyv/its_snapshot_0004.bmp"/>
+    <img src="https://sancy1021.github.io/Tavkozles/03. Antenna Mérési feladat/its_snapshot_0004.bmp"/>
 
-    <img src="https://raw.githubusercontent.com/Sancy1021/Tavkozles/refs/heads/main/Antenna%20M%C3%A9r%C3%A9si%20Jegyz%C5%91k%C3%B6nyv/its_snapshot_0017.bmp"/>
+    <img src="https://sancy1021.github.io/Tavkozles/03. Antenna Mérési feladat/its_snapshot_0017.bmp"/>
      
-    <img src="https://raw.githubusercontent.com/Sancy1021/Tavkozles/refs/heads/main/Antenna%20M%C3%A9r%C3%A9si%20Jegyz%C5%91k%C3%B6nyv/its_snapshot_0019.bmp"/>
+    <img src="https://sancy1021.github.io/Tavkozles/03. Antenna Mérési feladat/its_snapshot_0019.bmp"/>
   </details>
 
    <br>
 
   <details>
     <summary>ISKRA P20 LOGPER:</summary>
-    <img src="https://raw.githubusercontent.com/Sancy1021/Tavkozles/refs/heads/main/Antenna%20M%C3%A9r%C3%A9si%20Jegyz%C5%91k%C3%B6nyv/its_snapshot_0007.bmp"/>
+    <img src="https://sancy1021.github.io/Tavkozles/03. Antenna Mérési feladat/its_snapshot_0007.bmp"/>
 
-    <img src="https://raw.githubusercontent.com/Sancy1021/Tavkozles/refs/heads/main/Antenna%20M%C3%A9r%C3%A9si%20Jegyz%C5%91k%C3%B6nyv/its_snapshot_0015.bmp"/>
+    <img src="https://sancy1021.github.io/Tavkozles/03. Antenna Mérési feladat/its_snapshot_0015.bmp"/>
      
-    <img src="https://raw.githubusercontent.com/Sancy1021/Tavkozles/refs/heads/main/Antenna%20M%C3%A9r%C3%A9si%20Jegyz%C5%91k%C3%B6nyv/its_snapshot_0021.bmp"/>
+    <img src="https://sancy1021.github.io/Tavkozles/03. Antenna Mérési feladat/its_snapshot_0021.bmp"/>
   </details>
 
    <br>
 
    <details>
     <summary>IKUSI FLASHHD C48:</summary>
-    <img src="https://raw.githubusercontent.com/Sancy1021/Tavkozles/refs/heads/main/Antenna%20M%C3%A9r%C3%A9si%20Jegyz%C5%91k%C3%B6nyv/its_snapshot_0006.bmp"/>
+    <img src="https://sancy1021.github.io/Tavkozles/03. Antenna Mérési feladat/its_snapshot_0006.bmp"/>
 
-    <img src="https://raw.githubusercontent.com/Sancy1021/Tavkozles/refs/heads/main/Antenna%20M%C3%A9r%C3%A9si%20Jegyz%C5%91k%C3%B6nyv/its_snapshot_0010.bmp"/>
+    <img src="https://sancy1021.github.io/Tavkozles/03. Antenna Mérési feladat/its_snapshot_00010.bmp"/>
   </details>
    
 
@@ -88,7 +88,7 @@ Az alábbiakban található adatok segítségével összehasonlíthatjuk a háro
 
 <details>
     <summary>Grafikon:</summary> 
-    <img src="https://raw.githubusercontent.com/Sancy1021/Tavkozles/refs/heads/main/Antenna%20M%C3%A9r%C3%A9si%20Jegyz%C5%91k%C3%B6nyv/its_snapshot_0000.bmp.png"/>
+    <img src="https://sancy1021.github.io/Tavkozles/03. Antenna Mérési feladat/its_snapshot_0000.bmp.png"/>
     
   </details>
 
