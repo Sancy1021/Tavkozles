@@ -80,7 +80,7 @@ A modulátor beállításai állandóak maradnak az egész mérés során, csak 
 <details>
     <summary>Grafikon:</summary>
     Kép: 490 MHz  
-   <img src="https://sancy1021.github.io/Tavkozles2/Antenna%20teljes%C3%ADtm%C3%A9ny/its_snapshot_0004.bmp"/>
+   <img src="https://sancy1021.github.io/Tavkozles2/Antenna%20teljes%C3%ADtm%C3%A9ny/its_snapshot_0004.bmp.png"/>
 </details>
 
 <br>
@@ -88,7 +88,7 @@ A modulátor beállításai állandóak maradnak az egész mérés során, csak 
 <details>
     <summary>Diagram:</summary>
     Kép: 490 MHz  
-   <img src="https://sancy1021.github.io/Tavkozles2/Antenna%20teljes%C3%ADtm%C3%A9ny/its_snapshot_0005.bmp"/>
+   <img src="https://sancy1021.github.io/Tavkozles2/Antenna%20teljes%C3%ADtm%C3%A9ny/its_snapshot_0005.bmp.png"/>
 </details>
 
 <br>
