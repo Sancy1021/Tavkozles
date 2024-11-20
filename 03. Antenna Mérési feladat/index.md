@@ -72,7 +72,7 @@ A mérés célja, hogy megmérjük és összehasonlítsuk a SMART HD 550, ISKRA 
     <summary>IKUSI FLASHHD C48:</summary>
     <img src="https://sancy1021.github.io/Tavkozles/03. Antenna Mérési feladat/its_snapshot_0006.bmp"/>
 
-    <img src="https://sancy1021.github.io/Tavkozles/03. Antenna Mérési feladat/its_snapshot_00010.bmp"/>
+    <img src="https://sancy1021.github.io/Tavkozles/03. Antenna Mérési feladat/its_snapshot_0010.bmp"/>
   </details>
    
 
