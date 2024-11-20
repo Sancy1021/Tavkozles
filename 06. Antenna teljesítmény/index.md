@@ -153,6 +153,6 @@ A modulátor beállításai állandóak maradnak az egész mérés során, csak 
 ## Az **ISKRA P2845** tekinthető a legjobb általános teljesítményű antennának! 🎯
 ---
 
-**Jegyzőkönyv vezetője**: [Visnyei Sándor]  
-**Jegyzőkönyv hitelesítő**: [Sándor Péter]
+**Jegyzőkönyv vezetője**: Visnyei Sándor  
+**Jegyzőkönyv hitelesítő**: Sándor Péter
 
