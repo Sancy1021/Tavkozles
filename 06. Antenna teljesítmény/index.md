@@ -124,7 +124,7 @@ A modulátor beállításai állandóak maradnak az egész mérés során, csak 
 ### 5.1. Jelminőség Összehasonlítása
 
 - **A legjobb antenna és frekvencia kombináció**:
-  - [Példa: Az ISKRA P20 LOGPER antenna biztosította a legjobb jelminőséget a 522 MHz frekvencián.]
+  - Példa: Az ISKRA P20 LOGPER antenna biztosította a legjobb jelminőséget a 522 MHz frekvencián.
   
 - **Jelszint és MER**:
   - A mérési eredmények alapján az ISKRA P20 LOGPER antenna a legstabilabb jelszinttel és a legjobb MER értékkel rendelkezett a 522 MHz-es frekvencián.
