@@ -46,21 +46,17 @@ A modulátor beállításai állandóak maradnak az egész mérés során, csak 
 
 | **Antenna Típusa**     | **RF Frekvencia (MHz)** | **Jelszint (dBm)** | **Bitsebesség (Mbps)** | **MER Érték (dB)** |
 |------------------------|-------------------------|---------------------|------------------------|--------------------|
-| ISKRA P20 LOGPER       | 730                     | [-60,3dBm]          | [9,3Mb/s]              | [23dB              |
+| ISKRA P20 LOGPER       | 730                     | [-60,3dBm]          | [9,3Mb/s]              | [23dB]              |
 | ISKRA P2845            | 730                     | [-59,5dBm]          | [9.59Mb/s]             | [27,5dB]           |
 | IKUSI FLASHD C48       | 730                     | [-62,8dBm]          | [9,81Mb/s]             | [23,7dB]           |
 
 ### Mért képek:
 
+### 1. Mérés:
 <details>
     <summary>Iskra P20 LOGPER:</summary>
     Kép: 490 MHz  
    <img src="https://sancy1021.github.io/Tavkozles2/Antenna%20teljes%C3%ADtm%C3%A9ny/its_snapshot_0001.bmp"/>
-
-<br>
-
-    Kép: 730 MHz  
-   <img src="https://sancy1021.github.io/Tavkozles2/Antenna%20teljes%C3%ADtm%C3%A9ny/its_snapshot_0054.bmp.png"/>
 </details>
 
 <br>
@@ -97,6 +93,7 @@ A modulátor beállításai állandóak maradnak az egész mérés során, csak 
 
 <br>
 
+### 2. Mérés:
 <details>
     <summary>IKUSI FLASHD C48:</summary>
     Kép: 730 MHz  
