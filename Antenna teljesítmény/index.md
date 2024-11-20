@@ -149,11 +149,6 @@ A modulátor beállításai állandóak maradnak az egész mérés során, csak 
 
 ## 6. Összegzés
 
-- **Mérések időtartama**:
-  - Modulátor beállítása, antennák felszerelése: 30 perc
-  - Mérések három antennával: 60 perc
-  - Jegyzőkönyv készítése és kiértékelés: 30 perc
-
 - **Legjobb antenna**: [Melyik antenna biztosította a legjobb jelminőséget és miért?]
 
 ---
