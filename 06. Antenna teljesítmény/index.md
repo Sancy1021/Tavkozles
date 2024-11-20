@@ -4,7 +4,8 @@
 
 - **Dátum**: 2024. november 13.
 - **Helyszín**: [V3 Labor]
-
+- **Halgató neve**: Visnyei Sándor
+- **Csoport**: 13E. Gyak2
 ## 2. Eszközök
 
 - Johansson 8202 DVB-T modulátor
