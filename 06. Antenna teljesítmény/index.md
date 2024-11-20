@@ -56,7 +56,8 @@ A modulátor beállításai állandóak maradnak az egész mérés során, csak 
 ### 1. Mérés:
 <details>
     <summary>Iskra P20 LOGPER:</summary>
-    Kép: 490 MHz  
+    Kép: 490 MHz 
+   
    ![image](its_snapshot_0001.bmp)
 </details>
 
