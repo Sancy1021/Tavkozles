@@ -36,19 +36,19 @@ A modulátor beállításai állandóak maradnak az egész mérés során, csak 
 
 ### 4.1. Mérés 1: 490 MHz Frekvencián
 
-| **Antenna Típusa**     | **RF Frekvencia (MHz)** | **Jelszint (dBm)** | **Bitsebesség (Mbps)** | **MER Érték (dB)** |
-|------------------------|-------------------------|---------------------|------------------------|--------------------|
-| ISKRA P20 LOGPER       | 490                     | [-56,5dBm]          | [9,2Mbps]              | [27,3dB]           |
-| ISKRA P2845            | 490                     | [-56,4dBm]          | [9,5Mbps]              | [27,7dB]           |
-| IKUSI FLASHD C48       | 490                     | [-59,2dBm]          | [8,7Mbps]              | [26,5dB]           |
+| **Antenna Típusa**     | **Jelszint (dBm)** | **Bitsebesség (Mbps)** | **MER Érték (dB)** |
+|------------------------|--------------------|------------------------|--------------------|
+| ISKRA P20 LOGPER       | [-56,5dBm]         | [9,2Mbps]              | [27,3dB]           |
+| ISKRA P2845            | [-56,4dBm]         | [9,5Mbps]              | [27,7dB]           |
+| IKUSI FLASHD C48       | [-59,2dBm]         | [8,7Mbps]              | [26,5dB]           |
 
 ### 4.2. Mérés 2: 610 MHz Frekvencián
 
 | **Antenna Típusa**     | **RF Frekvencia (MHz)** | **Jelszint (dBm)** | **Bitsebesség (Mbps)** | **MER Érték (dB)** |
-|------------------------|-------------------------|---------------------|------------------------|--------------------|
-| ISKRA P20 LOGPER       | 730                     | [-60,3dBm]          | [9,3Mb/s]              | [23dB]              |
-| ISKRA P2845            | 730                     | [-59,5dBm]          | [9.59Mb/s]             | [27,5dB]           |
-| IKUSI FLASHD C48       | 730                     | [-62,8dBm]          | [9,81Mb/s]             | [23,7dB]           |
+|------------------------|-------------------------|--------------------|------------------------|--------------------|
+| ISKRA P20 LOGPER       | 730                     | [-60,3dBm]         | [9,3Mbps]              | [23dB]             |
+| ISKRA P2845            | 730                     | [-59,5dBm]         | [9.59Mbps]             | [27,5dB]           |
+| IKUSI FLASHD C48       | 730                     | [-62,8dBm]         | [9,81Mbps]             | [23,7dB]           |
 
 ### Mért képek:
 
