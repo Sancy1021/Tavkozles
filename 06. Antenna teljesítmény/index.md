@@ -4,7 +4,7 @@
 
 - **Dátum**: 2024. november 13.
 - **Helyszín**: V3 Labor
-- **Halgató neve**: Visnyei Sándor
+- **Mérést végző személy**: Visnyei Sándor
 - **Csoport**: 13E. Gyak2
 - **Mérés tárgya**: DVB-T jel generálása és mérése Johansson 8202 DVB-T modulátorral és METEK HD spektrum/jelszint analizátorral.
 ## 2. Eszközök
