@@ -4,7 +4,6 @@
 
 - **Dátum**: 2024. november 13.
 - **Helyszín**: [V3 Labor]
-- **Időpont**: [Kezdés időpontja] - [Befejezés időpontja]
 
 ## 2. Eszközök
 
