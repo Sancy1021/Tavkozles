@@ -149,8 +149,15 @@ A modulátor beállításai állandóak maradnak az egész mérés során, csak 
 
 ## 6. Összegzés
 
-- **Legjobb antenna**: [Melyik antenna biztosította a legjobb jelminőséget és miért?]
+# ISKRA P2845 teljesített a legjobban a legtöbb paraméter alapján:
 
+- **490 MHz-en** a legjobb jelszintet és MER értéket nyújtotta.
+- **730 MHz-en** a legjobb jelszintet és MER értéket nyújtotta, valamint bitsebességben is kiemelkedő volt.
+
+### Ha a bitsebesség kiemelten fontos:
+- **IKUSI FLASHD C48** 730 MHz-en jobb volt.
+
+## Az **ISKRA P2845** tekinthető a legjobb általános teljesítményű antennának! 🎯
 ---
 
 **Jegyzőkönyv vezetője**: [Visnyei Sándor]  
