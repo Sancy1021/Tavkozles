@@ -65,7 +65,7 @@ A modulátor beállításai állandóak maradnak az egész mérés során, csak 
 <details>
     <summary>ISKRA P2845:</summary>
     2. kép: 490 MHz  
-    <img src="https://sancy1021.github.io/Tavkozles2/Antenna%20teljes%C3%ADtm%C3%A9ny/its_snapshot_0002.bmp"/>
+    <img src="https://sancy1021.github.io/Tavkozles/Antenna%20teljes%C3%ADtm%C3%A9ny/its_snapshot_0002.bmp"/>
 </details>
 
 <br>
@@ -73,7 +73,7 @@ A modulátor beállításai állandóak maradnak az egész mérés során, csak 
 <details>
     <summary>IKUSI FLASHD C48:</summary>
     Kép: 490 MHz  
-    <img src="https://sancy1021.github.io/Tavkozles2/Antenna%20teljes%C3%ADtm%C3%A9ny/its_snapshot_0003.bmp"/>
+    <img src="https://sancy1021.github.io/Tavkozles/Antenna%20teljes%C3%ADtm%C3%A9ny/its_snapshot_0003.bmp"/>
 </details>
 
 <br>
@@ -81,7 +81,7 @@ A modulátor beállításai állandóak maradnak az egész mérés során, csak 
 <details>
     <summary>Grafikon:</summary>
     Kép: 490 MHz  
-   <img src="https://sancy1021.github.io/Tavkozles2/Antenna%20teljes%C3%ADtm%C3%A9ny/its_snapshot_0004.bmp.png"/>
+   <img src="https://sancy1021.github.io/Tavkozles/Antenna%20teljes%C3%ADtm%C3%A9ny/its_snapshot_0004.bmp.png"/>
 </details>
 
 <br>
@@ -90,7 +90,7 @@ A modulátor beállításai állandóak maradnak az egész mérés során, csak 
 <details>
     <summary>IKUSI FLASHD C48:</summary>
     Kép: 730 MHz  
-   <img src="https://sancy1021.github.io/Tavkozles2/Antenna%20teljes%C3%ADtm%C3%A9ny/its_snapshot_0051.bmp"/>
+   <img src="https://sancy1021.github.io/Tavkozles/Antenna%20teljes%C3%ADtm%C3%A9ny/its_snapshot_0051.bmp"/>
 </details>
 
 <br>
@@ -98,7 +98,7 @@ A modulátor beállításai állandóak maradnak az egész mérés során, csak 
 <details>
     <summary>ISKRA P2845:</summary>
     Kép: 730 MHz  
-   <img src="https://sancy1021.github.io/Tavkozles2/Antenna%20teljes%C3%ADtm%C3%A9ny/its_snapshot_0053.bmp"/>
+   <img src="https://sancy1021.github.io/Tavkozles/Antenna%20teljes%C3%ADtm%C3%A9ny/its_snapshot_0053.bmp"/>
 </details>
 
 <br>
@@ -106,7 +106,7 @@ A modulátor beállításai állandóak maradnak az egész mérés során, csak 
 <details>
     <summary>ISKRA P20 LOGPER :</summary>
     Kép: 730 MHz  
-   <img src="https://sancy1021.github.io/Tavkozles2/Antenna%20teljes%C3%ADtm%C3%A9ny/its_snapshot_0054.bmp"/>
+   <img src="https://sancy1021.github.io/Tavkozles/Antenna%20teljes%C3%ADtm%C3%A9ny/its_snapshot_0054.bmp"/>
 </details>
 
 <br>
@@ -114,7 +114,7 @@ A modulátor beállításai állandóak maradnak az egész mérés során, csak 
 <details>
     <summary>Grafikon:</summary>
     Kép: 730 MHz  
-   <img src="https://sancy1021.github.io/Tavkozles2/Antenna%20teljes%C3%ADtm%C3%A9ny/its_snapshot_0055.jpg"/>
+   <img src="https://sancy1021.github.io/Tavkozles/Antenna%20teljes%C3%ADtm%C3%A9ny/its_snapshot_0055.jpg"/>
 </details>
 
 ---
