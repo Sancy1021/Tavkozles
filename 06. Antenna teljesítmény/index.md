@@ -114,7 +114,7 @@ A modulátor beállításai állandóak maradnak az egész mérés során, csak 
 <details>
     <summary>Grafikon:</summary>
     Kép: 730 MHz  
-   <img src="https://sancy1021.github.io/Tavkozles/06. Antenna teljesítmény/its_snapshot_0055.bmp.jpg"/>
+   <img src="https://sancy1021.github.io/Tavkozles/06. Antenna teljesítmény/its_snapshot_0055.jpg"/>
 </details>
 
 ---
