@@ -51,14 +51,17 @@
 - A szűrő alkalmazása előtt és után mérve láttuk, hogy a 790 MHz feletti jelek csökkentek, és a jelminőség javult.
 
 ## 4. Jegyzőkönyv Készítése
-A következő táblázat tartalmazza a mért adatokat és eredményeket:
+| **Antenna típusa** | **Eredeti csatorna** | **Áthelyezett csatorna** | **Eredeti frekvencia** | **Áthelyezett frekvencia** | **Bemeneti jelszint (dB)** | **Kimeneti jelszint (dB)** |
+|-----------------|----------------------|--------------------------|-------------------|---------------------|---------------------|------------------|
+|                 | E28                  | CH 41                    | 530 MHz           | 634 MHz             | 63 dBu              |173.8dBu          |
+| FM Antenna      | E31                  | CH 42                    | 554 MHz           | 642 MHz             | 64 dBu              |174.9dBu          |
+|                 | E35                  | CH 43                    | 586 MHz           | 650 MHz             | 61 dBu              | 174.6 dBu        |
+|                 | E41                  | CH 44                    | 634 MHz           | 658 MHz             | 48 dBu              | 169.7 dBu        |
+| HDD 550         | E45                  | CH 45                    | 666 MHz           | 666 MHz             | 59 dBu              | 175.7 dBu        |
+|                 | E48                  | CH 46                    | 690 MHz           | 674 MHz             | 56 dBu              | 174.8 dBu        |  
 
-| **Antenna típusa**         | **Eredeti csatorna** | **Áthelyezett csatorna** | **Eredeti frekvencia** | **Áthelyezett frekvencia** | **Bemeneti jelszint (dB)** | **Kimeneti jelszint (dB)** | **Spektrum analizátor kép neve** |
-|----------------------------|----------------------|--------------------------|------------------------|---------------------------|----------------------------|----------------------------|-----------------------------------|
-| FM antenna                 | 101,7 MHz            | 183,7 MHz                | 100 MHz                | 180 MHz                   | -30 dB                     | -20 dB                     | FM_before_after.png              |
-| DVB-T antenna (VHF)        | 5. csatorna          | 10. csatorna             | 220 MHz                | 230 MHz                   | -40 dB                     | -30 dB                     | VHF_signal_comparison.png         |
-| DVB-T antenna (UHF)        | 28. csatorna         | 33. csatorna             | 500 MHz                | 600 MHz                   | -35 dB                     | -25 dB                     | UHF_signal_shift.png             |
-| Koax Kábel (RF-modulátor)  | KábelTV (CH22)       | KábelTV (CH23)           | 600 MHz                | 700 MHz                   | -45 dB                     | -30 dB                     | Coax_signal_modification.png      |
+
+
 
 ## Összegzés:
 - A gyakorlat során sikeresen beállítottuk a Johansson 6700 Profiler antennaerősítőt és szűrőt.
