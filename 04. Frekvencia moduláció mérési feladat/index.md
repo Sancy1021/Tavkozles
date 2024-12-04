@@ -1,5 +1,12 @@
 # Távközlési Ismeretek - Mérési Feladat Jegyzőkönyv
 
+- **Dátum**: 2024. december 04.
+- **Helyszín**: V3 Labor
+- **Mérést végző személy**: Visnyei Sándor
+- **Csoport**: 13E. Gyak2
+
+---
+
 ## Mérési Feladat
 **Cím:** A különböző frekvenciák és modulációk miként befolyásolják a jelminőséget  
 **Eszközök:**  
@@ -56,4 +63,4 @@ A mérés célja, hogy a hallgatók:
 - **Megjegyzések:**  
   A mérési környezetben fellépő zavarok minimalizálása érdekében megfelelő árnyékolást alkalmaztunk.  
 
----
+----
