@@ -17,7 +17,7 @@
 - RF kábel  
 - DVB-T vevő (TV vagy mérőműszer)  
 - METEK HD spektrum/jelszint analizátor
- <details>
+<details>
    <img src="https://sancy1021.github.io/Tavkozles/04. Frekvencia moduláció mérési feladat/METEKHD.png"/>
 </details>
 - Laptop  
