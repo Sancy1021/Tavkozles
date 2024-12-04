@@ -39,9 +39,6 @@ A mérés célja, hogy a hallgatók:
      - Jelszint 16-QAM: -31.2 dBm  
      - Jelszint 64-QAM: -31.6 dBm  
 
-3. **Jegyzőkönyv készítése**  
-   Az alábbi táblázat tartalmazza a mért paramétereket:  
-
 ---
 
 ## Mérési Eredmények
