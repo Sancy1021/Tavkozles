@@ -1,5 +1,12 @@
 # Jegyzőkönyv: Johansson 6700 Profiler programozható antennaerősítő-szűrő használata
 
+**Mérés helye:** V3 labor  
+**Mérés időpontja:** 2024.11.27  
+**Mérő műszerek:** METEK HDD  
+**Felelős személy:** Visnyei Sándor  
+**Cél:**  antennaerősítő-szűrő használata
+
+
 ## 1. Eszközök Bekapcsolása és Bekötése
 ### Eszközök:
 - Johansson 6700 Profiler programozható antennaerősítő-szűrő
