@@ -1,0 +1,59 @@
+# Távközlési Ismeretek - Mérési Feladat Jegyzőkönyv
+
+## Mérési Feladat
+**Cím:** A különböző frekvenciák és modulációk miként befolyásolják a jelminőséget  
+**Eszközök:**  
+- Johansson 8202 DVB-T modulátor  
+- RF kábel  
+- DVB-T vevő (TV vagy mérőműszer)  
+- METEK HD spektrum/jelszint analizátor  
+- Laptop  
+
+---
+
+## Célkitűzés
+A mérés célja, hogy a hallgatók:  
+1. Megismerjék a Johansson 8202 DVB-T modulátor működését és konfigurációját.  
+2. Különböző beállításokkal méréseket végezzenek a METEK HD spektrum/jelszint analizátor segítségével.  
+3. Értékeljék a modulációk és frekvenciák hatását a jelminőségre.  
+
+---
+
+## Elvégzett Feladatok
+1. **Johansson 8202 modulátor hardveres beállítása**  
+   - RF frekvencia: 474 MHz  
+   - Moduláció típusa: QPSK, 16-QAM, 64-QAM  
+   - Sávszélesség: 8 MHz  
+   - Jelszint: Optimalizált az eszközön  
+
+2. **DVB-T jel mérése és értékelése**  
+   - A METEK HD spektrum/jelszint analizátorral végzett mérések:  
+     - Jelszint QPSK: -30.7 dBm  
+     - Jelszint 16-QAM: -31.2 dBm  
+     - Jelszint 64-QAM: -31.6 dBm  
+
+3. **Jegyzőkönyv készítése**  
+   Az alábbi táblázat tartalmazza a mért paramétereket:  
+
+---
+
+## Mérési Eredmények
+| **Mérési paraméter** | **RF frekvencia (MHz)** | **Moduláció típusa** | **Sávszélesség (MHz)** | **Jelszint (dBm)** | **Bitsebesség (Mbps)** | **MER érték (dB)** |
+|-----------------------|-------------------------|-----------------------|-------------------------|--------------------|------------------------|--------------------|
+| **Mérési eredmény 1** | 474                     | QPSK                 | 8                       | -30.7              |                        |                    |
+| **Mérési eredmény 2** | 474                     | 16-QAM               | 8                       | -31.2              |                        |                    |
+| **Mérési eredmény 3** | 474                     | 64-QAM               | 8                       | -31.6              |                        |                    |
+
+---
+
+## Összehasonlítás és Záróértékelés
+- **Modulációs típusok hatása:**  
+  Az eredmények alapján a moduláció növelésével a jelszint csökken, ami az összetettebb modulációk nagyobb érzékenységére utal.  
+
+- **Ajánlott konfiguráció:**  
+  Az optimális jelminőség eléréséhez a QPSK moduláció stabilabb jelszintet biztosított.  
+
+- **Megjegyzések:**  
+  A mérési környezetben fellépő zavarok minimalizálása érdekében megfelelő árnyékolást alkalmaztunk.  
+
+---
