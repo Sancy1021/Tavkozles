@@ -36,13 +36,14 @@ A mérés célja, hogy a hallgatók:
 2. **DVB-T jel mérése és értékelése**  
  - A METEK HD spektrum/jelszint analizátorral végzett mérések:
    
-<br>
-      Jelszint QPSK: -30.7 dBm
+
+       Jelszint QPSK: -30.7 dBm
        
 <details>
    <img src="https://sancy1021.github.io/Tavkozles/04. Frekvencia moduláció mérési feladat/its_snapshot_0001.bmp"/>
 </details>
 
+<br>
 
       Jelszint 16-QAM: -31.2 dBm  
 
