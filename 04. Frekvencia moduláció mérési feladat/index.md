@@ -10,10 +10,12 @@
 ## Mérési Feladat
 **Cím:** A különböző frekvenciák és modulációk miként befolyásolják a jelminőséget  
 **Eszközök:**  
+
 - Johansson 8202 DVB-T modulátor
 <details>
    <img src="https://sancy1021.github.io/Tavkozles/04. Frekvencia moduláció mérési feladat/johansson8202.png"/>
 </details> 
+
 - RF kábel  
 - DVB-T vevő (TV vagy mérőműszer)  
 - METEK HD spektrum/jelszint analizátor
