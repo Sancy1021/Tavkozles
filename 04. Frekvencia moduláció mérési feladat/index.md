@@ -22,6 +22,7 @@
 <details>
    <img src="https://sancy1021.github.io/Tavkozles/04. Frekvencia moduláció mérési feladat/METEKHD.png"/>
 </details>
+
 - Laptop  
 
 ---
