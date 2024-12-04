@@ -35,7 +35,7 @@ A mérés célja, hogy a hallgatók:
 
 2. **DVB-T jel mérése és értékelése**  
  - A METEK HD spektrum/jelszint analizátorral végzett mérések:
-   
+ <br>
 
        Jelszint QPSK: -30.7 dBm
 
