@@ -37,7 +37,8 @@ A mérés célja, hogy a hallgatók:
  - A METEK HD spektrum/jelszint analizátorral végzett mérések:
    
 
-      Jelszint QPSK: -30.7 dBm
+       Jelszint QPSK: -30.7 dBm
+
        
 <details>
    <img src="https://sancy1021.github.io/Tavkozles/04. Frekvencia moduláció mérési feladat/its_snapshot_0001.bmp"/>
