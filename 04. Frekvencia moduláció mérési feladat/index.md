@@ -43,9 +43,9 @@ A mérés célja, hogy a hallgatók:
    <img src="https://sancy1021.github.io/Tavkozles/04. Frekvencia moduláció mérési feladat/its_snapshot_0001.bmp"/>
 </details>
 
-<br>
 
       Jelszint 16-QAM: -31.2 dBm  
+
      
 <details>
    <img src="https://sancy1021.github.io/Tavkozles/04. Frekvencia moduláció mérési feladat/its_snapshot_0006.bmp"/>
