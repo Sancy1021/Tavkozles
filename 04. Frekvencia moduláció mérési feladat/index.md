@@ -42,7 +42,11 @@ A mérés célja, hogy a hallgatók:
        
 <details>
    <img src="https://sancy1021.github.io/Tavkozles/04. Frekvencia moduláció mérési feladat/its_snapshot_0001.bmp"/>
+   ---
    <img src="https://sancy1021.github.io/Tavkozles/04. Frekvencia moduláció mérési feladat/its_snapshot_0003.bmp"/>
+   ---
+   <img src="https://sancy1021.github.io/Tavkozles/04. Frekvencia moduláció mérési feladat/its_snapshot_0002.bmp"/>
+   ---
 </details>
 
 <br>
@@ -53,6 +57,7 @@ A mérés célja, hogy a hallgatók:
 <details>
    <img src="https://sancy1021.github.io/Tavkozles/04. Frekvencia moduláció mérési feladat/its_snapshot_0006.bmp"/>
    <img src="https://sancy1021.github.io/Tavkozles/04. Frekvencia moduláció mérési feladat/its_snapshot_0005.bmp"/>
+   <img src="https://sancy1021.github.io/Tavkozles/04. Frekvencia moduláció mérési feladat/its_snapshot_0004.bmp"/>
 </details>
 
 <br>
@@ -62,6 +67,7 @@ A mérés célja, hogy a hallgatók:
 <details>
    <img src="https://sancy1021.github.io/Tavkozles/04. Frekvencia moduláció mérési feladat/its_snapshot_0008.bmp"/>
    <img src="https://sancy1021.github.io/Tavkozles/04. Frekvencia moduláció mérési feladat/its_snapshot_0009.bmp"/>
+   <img src="https://sancy1021.github.io/Tavkozles/04. Frekvencia moduláció mérési feladat/its_snapshot_00037.bmp"/>
 </details>   
 
 ---
