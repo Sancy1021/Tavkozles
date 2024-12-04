@@ -64,3 +64,5 @@ A mérés célja, hogy a hallgatók:
   A mérési környezetben fellépő zavarok minimalizálása érdekében megfelelő árnyékolást alkalmaztunk.  
 
 ----
+**Jegyzőkönyv vezetője**: Visnyei Sándor  
+**Jegyzőkönyv hitelesítő**: Sándor Péter
