@@ -68,20 +68,20 @@ A feladat célja, hogy megértsük a különböző bitsebességek hatását a DV
    <img src="https://sancy1021.github.io/Tavkozles/05 Bitsebesség jelminőség mérés/its_snapshot_0002.bmp"/>
    <img src="https://sancy1021.github.io/Tavkozles/05 Bitsebesség jelminőség mérés/its_snapshot_0003.bmp"/>
 
-
+<br>
 
 
    <img src="https://sancy1021.github.io/Tavkozles/05 Bitsebesség jelminőség mérés/its_snapshot_0004.bmp"/>
    <img src="https://sancy1021.github.io/Tavkozles/05 Bitsebesség jelminőség mérés/its_snapshot_0005.bmp"/>
    <img src="https://sancy1021.github.io/Tavkozles/05 Bitsebesség jelminőség mérés/its_snapshot_0006.bmp"/>
 
-
+<br>
 
 
    <img src="https://sancy1021.github.io/Tavkozles/05 Bitsebesség jelminőség mérés/its_snapshot_0007.bmp"/>
    <img src="https://sancy1021.github.io/Tavkozles/05 Bitsebesség jelminőség mérés/its_snapshot_0008.bmp"/>
 
-
+<br>
    
    <img src="https://sancy1021.github.io/Tavkozles/05 Bitsebesség jelminőség mérés/9772640a-cde7-45e4-8f24-9ededfb55cda.png"/>
 </details>   
