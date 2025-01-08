@@ -15,17 +15,18 @@ A tranzisztor működési elvének, jelleggörbéinek és alapvető paraméterei
 
 ## Eszközök
 - Multiméter
-- Tápegység
-- Ellenállások 
+- Digitális multiméter
+- Ellenállások 220ohm, 1,48kV
 - Tranzisztor (NPN)
 - Csatlakozók és vezérlő kábelek
+- Laptop
 
 ---
 
 ## Adatok rögzítése
 Az alábbi táblázat a mérési eredmények dokumentálására szolgál:
 
-| Mérési pont | Bemeneti feszültség (V) | Bemeneti áram (mA) | Kimeneti feszültség (V) | Kimeneti áram (mA) | Megjegyzések |
+|      Ube       |           Urc           |         Ic           |                       Szimuláció                                | 
 |----------------|-------------------------|----------------------|--------------------------|---------------------|----------------|
 |                |                         |                      |                          |                     |                |
 |                |                         |                      |                          |                     |                |
