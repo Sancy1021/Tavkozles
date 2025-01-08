@@ -2,9 +2,9 @@
 
 **Tárgy:** Tranzisztor működésének vizsgálata
 
-**Dátum:*2025.01.08* 
-**Helyszín:*V3* 
-**Vizsgálatot végezte:*Visnyei Sándor* 
+**Dátum:2025.01.08**
+**Helyszín:V3** 
+**Vizsgálatot végezte:Visnyei Sándor** 
 
 ---
 
