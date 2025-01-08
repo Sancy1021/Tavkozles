@@ -61,7 +61,7 @@ Az alábbi táblázat a mérési eredmények dokumentálására szolgál:
 ## Képek 
 
 <details>
-   <img src="https://sancy1021.github.io/Tavkozles/05 Bitsebesség jelminőség mérés/its_snapshot_0001.bmp"/>
+   <img src="https://sancy1021.github.io/Tavkozles/Tranzisztor működésének vizsgálata/5d74a80b-682f-4cab-89c6-8648f2204e89.jpg"/>
    <img src="https://sancy1021.github.io/Tavkozles/05 Bitsebesség jelminőség mérés/its_snapshot_0002.bmp"/>
    <img src="https://sancy1021.github.io/Tavkozles/05 Bitsebesség jelminőség mérés/its_snapshot_0003.bmp"/>
 </details>   
