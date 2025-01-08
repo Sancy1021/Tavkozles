@@ -16,7 +16,7 @@ A tranzisztor működési elvének, jelleggörbéinek és alapvető paraméterei
 ## Eszközök
 - Multiméter
 - Digitális multiméter
-- Ellenállások 220ohm, 1,48kV
+- Ellenállások 220ohm, 1,48k ohm
 - Tranzisztor (NPN)
 - Csatlakozók és vezérlő kábelek
 - Laptop
