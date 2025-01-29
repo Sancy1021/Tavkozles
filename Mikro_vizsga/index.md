@@ -17,7 +17,7 @@
 #### 2.1. Mikrotik LHG18 LTE antenna beállítása
 
 <details>
-   <img src="https://sancy1021.github.io/Tavkozles/Mikro_vizsga/CisnyeiS Mikrotik.jpg"/>
+   <img src="https://sancy1021.github.io/Tavkozles/Mikro_vizsga/VisnyeiS Mikrotik.jpg"/>
 </details>   
 
 
