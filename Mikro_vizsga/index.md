@@ -2,28 +2,8 @@
 
 **Vizsga neve:** Komplex Távközlési Hálózat Tervezése, Telepítése és Mérése  
 
-### 1. Előkészítés és tervezés
+#### 1.Hálózati topológia tervezése és IP-címek
 
-#### 1.1. Eszközök gyári beállításainak visszaállítása (Factory Reset)
-
-##### Mikrotik LHG18 LTE antenna resetelése:
-- Az eszközt áramtalanítani kell.
-- Nyomja meg és tartsa lenyomva a reset gombot.
-- Csatlakoztassa vissza az áramot, miközben nyomva tartja a reset gombot.
-- Tartsa lenyomva, amíg a status LED villogni nem kezd (kb. 5 másodperc).
-- Engedje el a gombot. Az eszköz ekkor visszaáll a gyári beállításokra.
-
-##### Mikrotik nRay 60GHz antennák resetelése:
-- Ismételje meg a fenti lépéseket mindkét antennán (192.168.88.2 és 192.168.88.3).
-
-##### SOHO router resetelése:
-- Keresse meg a reset gombot az eszközön.
-- Áramtalanítás után nyomja meg a reset gombot.
-- Kapcsolja vissza az eszközt, és tartsa lenyomva 10 másodpercig, amíg a gyári visszaállítás befejeződik.
-
-#### 1.2. Hálózati topológia tervezése
-
-Rajzolja meg a hálózati diagramot, amely tartalmazza az összes eszközt és azok kapcsolatait (használja a **Draw.io** alkalmazást). Az IP-címek a következőképpen legyenek kiosztva:
 
 - **Mikrotik LHG18 LTE**: 192.168.88.1  
 - **Mikrotik nRay 60GHz Master**: 192.168.88.2  
@@ -32,27 +12,11 @@ Rajzolja meg a hálózati diagramot, amely tartalmazza az összes eszközt és a
 - **Switch (ha szükséges)**: 192.168.88.254  
 - **Kliens laptop**: 192.168.88.100-250 (DHCP-ből)
 
-#### IP-címek és alhálózati maszk:
-
-- Alhálózati maszk: **255.255.255.0**
-- Ügyeljen az IP-ütközések elkerülésére!
-
 ### 2. Eszközök telepítése és konfigurálása
 
 #### 2.1. Mikrotik LHG18 LTE antenna beállítása
 
-- Csatlakoztassa a laptopot az Mikrotik LHG18 LTE-hez Ethernet kábellel.
-- Állítsa be a laptop IP-címét az antenna konfigurálásához:
-  - IP: 192.168.188.2
-  - Alhálózati maszk: 255.255.255.0
-  - Átjáró (gateway): 192.168.188.1
-- Nyisson meg egy böngészőt, vagy a WinBox alkalmazást és lépjen be az LTE antenna konfigurációs felületére:
-  - Cím: http://192.168.188.1
-  - Felhasználónév: **admin**, jelszó: **antennán**.
-- Konfigurálja az LTE kapcsolatot a szolgáltató APN beállításaival.
-- Állítsa be az antenna IP-jét: 192.168.88.1, és engedélyezze a DHCP-t a 192.168.88.100-250 IP tartományra.
-- Ellenőrizze a kapcsolat állapotát, és rögzítse a jelerősség paramétereit: RSRP, RSRQ, SINR, RSSI.
-- Végezzen ping tesztet egy külső szerverhez (pl. 8.8.8.8).
+
 
 #### 2.2. Mikrotik nRay 60GHz antennapár beállítása
 
