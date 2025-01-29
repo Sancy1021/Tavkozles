@@ -100,9 +100,9 @@ Approximate round trip times in milli-seconds:
 ### 4. Eredmények és megjegyzések
 
 **Ping tesztek eredményei:**
-- 192.168.88.1: válaszidő... ms, csomagok: sikeres/sikertelen
-- 192.168.88.2: válaszidő... ms, csomagok: sikeres/sikertelen
-- 192.168.88.3: válaszidő... ms, csomagok: sikeres/sikertelen
+- 192.168.88.1: válaszidő 1ms, csomagok: sikeres
+- 192.168.88.2: válaszidő 1ms, csomagok: sikeres
+- 192.168.88.3: válaszidő 1ms, csomagok: sikeres
 
 **Sávszélesség teszt eredményei:**
 
