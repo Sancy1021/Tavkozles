@@ -111,7 +111,7 @@ Approximate round trip times in milli-seconds:
 **Sávszélesség teszt eredményei:**
 <details>
    <img src="https://sancy1021.github.io/Tavkozles/Mikro_vizsga/speed.PNG"/>
-   <img src="https://sancy1021.github.io/Tavkozles/Mikro_vizsga/teszt1-3.PNG"/>
+   <img src="https://sancy1021.github.io/Tavkozles/Mikro_vizsga/teszt.utols.PNG"/>
    <img src="https://sancy1021.github.io/Tavkozles/Mikro_vizsga/teszt.utols2.PNG"/>
 </details> 
 
