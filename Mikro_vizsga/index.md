@@ -109,7 +109,11 @@ Approximate round trip times in milli-seconds:
 - 192.168.88.3: válaszidő 1ms, csomagok: sikeres
 
 **Sávszélesség teszt eredményei:**
-
+<details>
+   <img src="https://sancy1021.github.io/Tavkozles/Mikro_vizsga/speed.PNG"/>
+   <img src="https://sancy1021.github.io/Tavkozles/Mikro_vizsga/teszt1-3.PNG"/>
+   <img src="https://sancy1021.github.io/Tavkozles/Mikro_vizsga/teszt.utolso2.PNG"/>
+</details> 
 
 ---
 
