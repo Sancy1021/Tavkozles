@@ -39,25 +39,63 @@
 
 #### 3.1. Ping teszt végrehajtása
 
-<pre>
-   (pingek.txt)
-</pre> 
-Ha problémák lépnek fel, használja a következő parancsokat a hálózati hibák elhárításához:
 
-- `ipconfig`
-- `ipconfig /all`
-- `ipconfig /release`
-- `ipconfig /renew`
+C:\Users\Admin>ping 192.168.88.1
+
+Pinging 192.168.88.1 with 32 bytes of data:
+Reply from 192.168.88.1: bytes=32 time<1ms TTL=64
+Reply from 192.168.88.1: bytes=32 time<1ms TTL=64
+Reply from 192.168.88.1: bytes=32 time<1ms TTL=64
+
+Ping statistics for 192.168.88.1:
+    Packets: Sent = 3, Received = 3, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+C:\Users\Admin>ping 192.168.88.2
+
+Pinging 192.168.88.2 with 32 bytes of data:
+Reply from 192.168.88.2: bytes=32 time<1ms TTL=64
+Reply from 192.168.88.2: bytes=32 time<1ms TTL=64
+Reply from 192.168.88.2: bytes=32 time<1ms TTL=64
+
+Ping statistics for 192.168.88.2:
+    Packets: Sent = 3, Received = 3, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+C:\Users\Admin>ping 192.168.88.3
+
+Pinging 192.168.88.3 with 32 bytes of data:
+Reply from 192.168.88.3: bytes=32 time=1ms TTL=64
+Reply from 192.168.88.3: bytes=32 time=1ms TTL=64
+Reply from 192.168.88.3: bytes=32 time=1ms TTL=64
+Reply from 192.168.88.3: bytes=32 time=1ms TTL=64
+
+Ping statistics for 192.168.88.3:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1ms, Maximum = 1ms, Average = 1ms
+
+C:\Users\Admin>
+
+C:\Users\Admin>ping 192.168.88.4
+
+Pinging 192.168.88.4 with 32 bytes of data:
+Reply from 192.168.88.4: bytes=32 time<1ms TTL=64
+Reply from 192.168.88.4: bytes=32 time<1ms TTL=64
+Reply from 192.168.88.4: bytes=32 time<1ms TTL=64
+Reply from 192.168.88.4: bytes=32 time<1ms TTL=64
+
+Ping statistics for 192.168.88.4:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
 
 #### 3.2. Sávszélesség mérése (iperf használata)
 
-- Telepítse az iperf3 szoftvert a laptopokra:
-  - `winget install iperf3`
-- Az egyik laptopon futtassa szerverként:
-  - `iperf3 -s`
-- A másik laptopon futtassa kliensként:
-  - `iperf3 -c 192.168.88.xxx`
-- Rögzítse az eredményeket és mérje meg a sávszélességet.
+
 
 ### 4. Eredmények és megjegyzések
 
@@ -67,11 +105,7 @@ Ha problémák lépnek fel, használja a következő parancsokat a hálózati hi
 - 192.168.88.3: válaszidő... ms, csomagok: sikeres/sikertelen
 
 **Sávszélesség teszt eredményei:**
-- Kliens IP: 192.168.88.xxx
-- Letöltési sebesség: ... Mbps
-- Feltöltési sebesség: ... Mbps
 
-A tesztelések alapján minden eszköz sikeresen csatlakozott a hálózathoz, és a szükséges beállítások megfelelően működnek.
 
 ---
 
