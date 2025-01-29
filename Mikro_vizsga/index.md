@@ -95,7 +95,11 @@ Approximate round trip times in milli-seconds:
 
 #### 3.2. Sávszélesség mérése (iperf használata)
 
+<details>
+   <img src="https://sancy1021.github.io/Tavkozles/Mikro_vizsga/iperf.PNG"/>
 
+   <img src="https://sancy1021.github.io/Tavkozles/Mikro_vizsga/meres2.PNG"/>
+</details> 
 
 ### 4. Eredmények és megjegyzések
 
