@@ -16,6 +16,9 @@
 
 #### 2.1. Mikrotik LHG18 LTE antenna beállítása
 
+<details>
+   <img src="https://sancy1021.github.io/Tavkozles/Mikro_vizsga/CisnyeiS Mikrotik.jpg"/>
+</details>   
 
 
 #### 2.2. Mikrotik nRay 60GHz antennapár beállítása
