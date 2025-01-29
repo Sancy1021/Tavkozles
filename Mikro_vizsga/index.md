@@ -40,7 +40,7 @@
 #### 3.1. Ping teszt végrehajtása
 
 <pre>
-   [GitHub fájl letöltése](https://sancy1021.github.io/Tavkozles/Mikro_vizsga/pingek.txt)
+   (https://sancy1021.github.io/Tavkozles/Mikro_vizsga/pingek.txt)
 </pre> 
 Ha problémák lépnek fel, használja a következő parancsokat a hálózati hibák elhárításához:
 
