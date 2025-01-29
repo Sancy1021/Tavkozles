@@ -26,19 +26,15 @@
 
 #### 2.2. Mikrotik nRay 60GHz antennapár beállítása
 
-
-
-
+<details>
+   <img src="https://sancy1021.github.io/Tavkozles/Mikro_vizsga/meres4.PNG"/>
+</details> 
 
 #### 2.3. SOHO router beállítása AP módban
 
-- Csatlakoztassa a routert a laptophoz Ethernet kábellel.
-- Nyisson egy parancssort és keresse meg a router IP címét:
-  - `arp -a`
-- Nyisson meg egy böngészőt és lépjen be az IP címére.
+
 - WiFi beállítása:
-  - SSID: **GazdaXX**, Jelszó: **G1234567** (XX - azonosító szám, pl. Gazda01, Gazda02).
-- Kapcsolja AP módba és állítsa be az IP-t a 192.168.88.xxx tartományba.
+  - SSID: **Gazda01**, Jelszó: **G1234567**
 
 ### 3. Hálózati tesztelés és hibakeresés
 
