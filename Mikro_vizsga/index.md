@@ -4,7 +4,6 @@
 
 #### 1.Hálózati topológia tervezése és IP-címek
 
-
 - **Mikrotik LHG18 LTE**: 192.168.88.1  
 - **Mikrotik nRay 60GHz Master**: 192.168.88.2  
 - **Mikrotik nRay 60GHz Slave**: 192.168.88.3  
@@ -12,12 +11,16 @@
 - **Switch (ha szükséges)**: 192.168.88.254  
 - **Kliens laptop**: 192.168.88.100-250 (DHCP-ből)
 
+<details>
+   <img src="https://sancy1021.github.io/Tavkozles/Mikro_vizsga/VisnyeiS Mikrotik.jpg"/>
+</details>  
+
 ### 2. Eszközök telepítése és konfigurálása
 
 #### 2.1. Mikrotik LHG18 LTE antenna beállítása
 
 <details>
-   <img src="https://sancy1021.github.io/Tavkozles/Mikro_vizsga/VisnyeiS Mikrotik.jpg"/>
+   <img src="https://sancy1021.github.io/Tavkozles/Mikro_vizsga/teszt1-3.PNG"/>
 </details>   
 
 
