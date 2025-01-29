@@ -26,17 +26,9 @@
 
 #### 2.2. Mikrotik nRay 60GHz antennapár beállítása
 
-##### Master antenna (192.168.88.2) konfigurálása:
-- Csatlakoztassa az eszközhöz Ethernet kábellel.
-- Nyisson meg egy böngészőt vagy a WinBox alkalmazást, és lépjen be: http://192.168.88.2
-  - Felhasználónév: **admin**, jelszó: **antennán**.
-- Állítsa be az eszközt "Master" módban.
-- Ellenőrizze az IP címeket, hogy a Slave antenna csatlakozni tudjon.
 
-##### Slave antenna (192.168.88.3) konfigurálása:
-- Ismételje meg a fenti lépéseket a 192.168.88.3 IP-n.
-- Állítsa be az eszközt "Slave" módban, és csatlakoztassa a Master antennához.
-- Ellenőrizze a kapcsolat minőségét és rögzítse a jelminőségi paramétereket: WIRELESS 60G STATUS.
+
+
 
 #### 2.3. SOHO router beállítása AP módban
 
