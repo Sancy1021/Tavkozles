@@ -1,9 +1,6 @@
 # Jegyzőkönyv
 
-## Távközlési Technikus Vizsgafeladat
-
 **Vizsga neve:** Komplex Távközlési Hálózat Tervezése, Telepítése és Mérése  
-**Időtartam:** 2 óra
 
 ### 1. Előkészítés és tervezés
 
