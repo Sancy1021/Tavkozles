@@ -32,7 +32,6 @@
 
 #### 2.3. SOHO router beállítása AP módban
 
-
 - WiFi beállítása:
   - SSID: **Gazda01**, Jelszó: **G1234567**
 
@@ -40,12 +39,9 @@
 
 #### 3.1. Ping teszt végrehajtása
 
-- Nyisson egy parancssort és pingelje meg a következő eszközöket:
-  - `ping 192.168.88.1`
-  - `ping 192.168.88.2`
-  - `ping 192.168.88.3`
-  - `ping 192.168.88.4`
-
+<details>
+   <img src="https://sancy1021.github.io/Tavkozles/Mikro_vizsga/pinkeg.txt"/>
+</details> 
 Ha problémák lépnek fel, használja a következő parancsokat a hálózati hibák elhárításához:
 
 - `ipconfig`
