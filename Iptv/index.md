@@ -7,6 +7,7 @@
 ### A mérést vezete: Sándor Péter
 ### Csoport: GYAK 1
 ### Évfolyam: 13E
+### A mérés helyszíne: V3
 ### Munkafeladat leírása: Földfelszíni digitális TV vételi rendszer kiépítése, jelszintmérés, fejállomás beállítása és IPTV stream konfigurálása
 
 ---
@@ -15,17 +16,17 @@
 
 - **Szükséges eszközök ellenőrzése**:
   - Antenna: Iskra P2845
-  - Fejállomás: LEMCO SCL-824CT
+  - Fejállomás: LEMCO SCL-824CT Ip cím: 192.168.1.200 
   - Set-top box: MAG IPTV
   - Hálózati eszköz: IGMP protokollt támogató router
   - Mérőműszer: METEK HDD digitális TV jelmérő
-  - Kábelek és csatlakozók előkészítve
+  - Kábelek és csatlakozók: RF csatlakozó, RF16
 
 - **Multiplex keresése a Miskolc, Avasi adótoronyból**:
-  - Frekvencia: [Frekvencia]
+  - Frekvencia: [634Mhz]
   - Teljesítmény: [Teljesítmény]
-  - Polarizáció: [Polarizáció]
-  - Adás típusa: [Adás típusa]
+  - Polarizáció: [DNY 234°]
+  - Adás típusa: [DVBT]
   
 ---
 
@@ -80,13 +81,14 @@
 
 - **Antenna mérések**:
   - Spektrum analizátor képe: [Spektrum kép mellékelése]
-  - Jelszintek: [dBμV]
+  - Jelszintek: 51dBμV
   - SNR: [dB]
   - BER: [Bit Error Rate]
-  - MER: [Modulation Error Ratio]
+  - MER: 25db
   - Csillapítás: [dB]
   - Multiplex adatok: Frekvencia, szimbólumráta, FEC
-  - Időjárási körülmények: [Hőmérséklet, szélsebesség]
+  - Időjárási körülmények: 5°C 3,2m/s
+  - Páratartalóm: 68%
 
 - **Fejállomás utáni mérések**:
   - Multicast IP címek ellenőrzése.
