@@ -4,6 +4,9 @@
 
 ### Vizsgázó neve: Visnyei Sándor
 ### Dátum: 2025.02.03
+### A mérést vezete: Sándor Péter
+### Csoport: GYAK 1
+### Évfolyam: 13E
 ### Munkafeladat leírása: Földfelszíni digitális TV vételi rendszer kiépítése, jelszintmérés, fejállomás beállítása és IPTV stream konfigurálása
 
 ---
