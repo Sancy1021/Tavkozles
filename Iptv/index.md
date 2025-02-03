@@ -14,7 +14,7 @@
 ## 1. Előkészületek
 
 - **Szükséges eszközök ellenőrzése**:
-  - Antenna: [Antenna típus, pl. beltéri/kültéri]
+  - Antenna: Iskra P2845
   - Fejállomás: LEMCO SCL-824CT
   - Set-top box: MAG IPTV
   - Hálózati eszköz: IGMP protokollt támogató router
