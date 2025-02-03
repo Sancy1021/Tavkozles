@@ -21,6 +21,7 @@
   - Hálózati eszköz: IGMP protokollt támogató router
   - Mérőműszer: METEK HDD digitális TV jelmérő
   - Kábelek és csatlakozók: RF csatlakozó, RF16
+  - SOHO router  TP-Link Archer C7
 
 - **Multiplex keresése a Miskolc, Avasi adótoronyból**:
   - Frekvencia: [634Mhz]
@@ -41,8 +42,7 @@
   - METEK HDD mérőműszerrel végzett finomhangolás.
   
 - **Antenna pozíció**:
-  - [Irány/pozíció megadása]
-  - Polarizáció beállítása: [H/V]
+  - Polarizáció beállítása: [DNY 234°]
 
 ---
 
@@ -115,5 +115,5 @@
 
 - **Mért adatok**:
   - Jelerősség (dBμV): [Érték]
-  - Jel-zaj viszony (SNR): [Érték d
+  - Jel-zaj viszony (SNR):
 
