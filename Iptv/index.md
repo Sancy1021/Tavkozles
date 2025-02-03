@@ -2,8 +2,8 @@
 
 ## Vizsgafeladat: DVB-T jel fejállomásba küldése és IPTV rendszeren való kiadása
 
-### Vizsgázó neve: [Név]
-### Dátum: [Dátum]
+### Vizsgázó neve: Visnyei Sándor
+### Dátum: 2025.02.03
 ### Munkafeladat leírása: Földfelszíni digitális TV vételi rendszer kiépítése, jelszintmérés, fejállomás beállítása és IPTV stream konfigurálása
 
 ---
