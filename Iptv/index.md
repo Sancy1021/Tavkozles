@@ -43,6 +43,10 @@
   
 - **Antenna pozíció**:
   - Polarizáció beállítása: [DNY 234°]
+    
+   <details>
+   <img src="https://sancy1021.github.io/Tavkozles/Iptv/Kando-avaskilato.png"/>
+   </details> 
 
 ---
 
@@ -54,7 +58,7 @@
 
 - **Jelmérés**:
   - Kiemelt multiplexek jelerőssége: 50.3dBuV
-  - Jelek elosztása az IPTV rendszerbe.
+  - Jeleket osztotunk az IPTV rendszerbe.
 
    <details>
    <img src="https://sancy1021.github.io/Tavkozles/Iptv/its_snapshot_0001.bmp"/>
@@ -69,7 +73,7 @@
   - DVB-T jelek IP streamre konvertálása.
 
 - **Multicast IP tartomány konfigurálása**:
-  - Multicast IP tartomány: [IP tartomány]
+  - Multicast IP tartomány: 192.168.1.100 tól 192.168.169.249 defaultgateway 192.168.1.1
   - IPTV csatornák konfigurálása.
 
 - **Router konfigurálása**:
