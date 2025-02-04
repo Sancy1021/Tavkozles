@@ -73,7 +73,26 @@
   - Hálózati kapcsolat tesztelése és IPTV Set-top-box (MAG IPTV) csatlakoztatása.
   
 - **IPTV Set-top-box csatornakeresése**:
-  - Ellenőrzés: [Csatornák megtalálása és tesztelése]
+| #  | Input  | Program title              | OriginalService ID | LCN1..1023 | Encrypted | TS Output | OutputService ID | IP address   | IP port | Protocol  |
+|----|--------|-----------------------------|--------------------|------------|-----------|-----------|------------------|--------------|---------|----------|
+| 1  | Input 1 | M1 HD                      | 100                | 0          | FTA       | 1         | 100              | 224.0.0.1    | 1001    | UDP      |
+| 2  | Input 1 | M4 Sport HD                | 101                | 0          | FTA       | 1         | 101              | 224.0.0.1    | 1002    | UDP      |
+| 3  | Input 1 | Duna HD                    | 102                | 0          | FTA       | 1         | 102              | 224.0.0.1    | 1003    | UDP      |
+| 4  | Input 1 | DunaW/M4Sport+             | 103                | 0          | FTA       | 2         | 103              | 224.0.0.1    | 1004    | UDP      |
+| 5  | Input 1 | Kossuth Radio              | 130                | 0          | FTA       | 4         | 130              | 224.0.0.1    | 1005    | UDP      |
+| 6  | Input 1 | Petofi Radio               | 131                | 0          | FTA       | 4         | 131              | 224.0.0.1    | 1006    | UDP      |
+| 7  | Input 1 | Bartok Radio               | 132                | 0          | FTA       | 4         | 132              | 224.0.0.1    | 1007    | UDP      |
+| 8  | Input 1 | Danko Radio                | 133                | 0          | FTA       | 4         | 133              | 224.0.0.1    | 1008    | UDP      |
+| 10 | Input 2 | M2 HD                      | 200                | 0          | FTA       | 1         | 200              | 224.0.0.1    | 1010    | UDP      |
+| 11 | Input 2 | M5 HD                      | 201                | 0          | FTA       | 2         | 201              | 224.0.0.1    | 1011    | UDP      |
+| 12 | Input 2 | TV2                        | 202                | 0          | FTA       | 1         | 202              | 224.0.0.1    | 1012    | UDP      |
+| 13 | Input 2 | RTL                        | 203                | 0          | FTA       | 1         | 203              | 224.0.0.1    | 1013    | UDP      |
+| 14 | Input 2 | MAX4                       | 206                | 0          | FTA       | 2         | 206              | 224.0.0.1    | 1014    | UDP      |
+| 15 | Input 2 | Spektrum Home +            | 207                | 0          | FTA       | 2         | 207              | 224.0.0.1    | 1015    | UDP      |
+| 16 | Input 2 | MinDig TV Plusz Info       | 208                | 0          | FTA       | 2         | 208              | 224.0.0.1    | 1016    | UDP      |
+| 37 | Input 3 | HEVC teszt                 | 524                | 0          | FTA       | 2         | 524              | 224.0.0.1    | 1037    | UDP      |
+| 39 | Input 4 | Miskolc TV                 | 1000               | 0          | FTA       | 2         | 1000             | 224.0.0.1    | 1039    | UDP      |
+
 
 ---
 
