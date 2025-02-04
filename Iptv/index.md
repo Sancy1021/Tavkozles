@@ -53,7 +53,7 @@
   - Jel elosztása a megfelelő fejállomás bemenetekre.
 
 - **Jelmérés**:
-  - Kiemelt multiplexek jelerőssége: [Jelerősség]
+  - Kiemelt multiplexek jelerőssége: 50.3dBuV
   - Jelek elosztása az IPTV rendszerbe.
 
    <details>
@@ -105,25 +105,26 @@
 
 - **Antenna mérések**:
   - Spektrum analizátor képe:
-  - <details>
+    
+   <details>
    <img src="https://sancy1021.github.io/Tavkozles/Iptv/its_snapshot_0001.bmp"/>
    </details> 
 
   - Jelszintek: 51dBμV
-  - SNR: [dB]
   - BER: 7,57
   - MER: 23.6dB
-  - Csillapítás: [dB]
   - Multiplex adatok: Frekvencia, szimbólumráta, FEC
   - Időjárási körülmények: 5°C 3,2m/s
   - Páratartalóm: 68%
 
 - **Fejállomás utáni mérések**:
-  - Multicast IP címek ellenőrzése.
-  - IPTV stream stabilitásának mérése.
-  - Hálózati késleltetés: [Késleltetés mérése]
-  - Csomagvesztés vizsgálata: [Csomagvesztés mérése]
-  - Stream adatok: [Adatok]
+- 
+   <details>
+   <img src="https://sancy1021.github.io/Tavkozles/Iptv/Képernyőkép 2025-02-03 123233.png"/>
+
+   <img src="https://sancy1021.github.io/Tavkozles/Iptv/41-48ch.png"/>
+   </details> 
+
 
 ---
 
@@ -142,6 +143,6 @@
 ## 7. Mérések és eredmények dokumentálása
 
 - **Mért adatok**:
-  - Jelerősség (dBμV): [Érték]
+  - Jelerősség (dBμV): [50.3]
   - Jel-zaj viszony (SNR):
 
