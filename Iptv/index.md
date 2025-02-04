@@ -34,12 +34,12 @@
 ## 2. Antenna felszerelése és beállítása
 
 - **Antenna kiválasztása**:
-  - Választott antenna: [Beltéri/kültéri]
-  - Elhelyezés: [Vételi hely pontos megadása]
+  - Választott antenna: Kültéri
+  - Elhelyezés: V3
   
 - **Antenna beállítása**:
-  - Iránytű és dőlésszögmérő használata az adótorony irányba történő beállításhoz.
-  - METEK HDD mérőműszerrel végzett finomhangolás.
+  - Iránytű és dőlésszögmérőt használtunk az adótorony irányba történő beállításhoz.
+  - METEK HDD mérőműszerrel végeztünk finomhangolás.
   
 - **Antenna pozíció**:
   - Polarizáció beállítása: [DNY 234°]
@@ -55,6 +55,10 @@
 - **Jelmérés**:
   - Kiemelt multiplexek jelerőssége: [Jelerősség]
   - Jelek elosztása az IPTV rendszerbe.
+
+   <details>
+   <img src="https://sancy1021.github.io/Tavkozles/Iptv/its_snapshot_0001.bmp"/>
+   </details> 
 
 ---
 
@@ -100,11 +104,15 @@
 ## 5. Jelszintmérés és dokumentáció
 
 - **Antenna mérések**:
-  - Spektrum analizátor képe: [Spektrum kép mellékelése]
+  - Spektrum analizátor képe:
+  - <details>
+   <img src="https://sancy1021.github.io/Tavkozles/Iptv/its_snapshot_0001.bmp"/>
+   </details> 
+
   - Jelszintek: 51dBμV
   - SNR: [dB]
-  - BER: [Bit Error Rate]
-  - MER: 25db
+  - BER: 7,57
+  - MER: 23.6dB
   - Csillapítás: [dB]
   - Multiplex adatok: Frekvencia, szimbólumráta, FEC
   - Időjárási körülmények: 5°C 3,2m/s
