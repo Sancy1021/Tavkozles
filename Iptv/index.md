@@ -122,7 +122,7 @@
   - Páratartalóm: 68%
 
 - **Fejállomás utáni mérések**:
-- 
+  
    <details>
    <img src="https://sancy1021.github.io/Tavkozles/Iptv/Képernyőkép 2025-02-03 123233.png"/>
 
