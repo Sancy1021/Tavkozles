@@ -73,6 +73,7 @@
   - Hálózati kapcsolat tesztelése és IPTV Set-top-box (MAG IPTV) csatlakoztatása.
   
 - **IPTV Set-top-box csatornakeresése**:
+  
 | #  | Input  | Program title              | OriginalService ID | LCN1..1023 | Encrypted | TS Output | OutputService ID | IP address   | IP port | Protocol  |
 |----|--------|-----------------------------|--------------------|------------|-----------|-----------|------------------|--------------|---------|----------|
 | 1  | Input 1 | M1 HD                      | 100                | 0          | FTA       | 1         | 100              | 224.0.0.1    | 1001    | UDP      |
