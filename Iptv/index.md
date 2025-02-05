@@ -153,13 +153,13 @@
       
     <img src="https://sancy1021.github.io/Tavkozles/Iptv/its_snapshot_0003.(1)bmp"/>
 
-    <img src="https://sancy1021.github.io/Tavkozles/Iptv/Képernyőkép 2025-02-03 131512.png"/>
+    <img src="https://sancy1021.github.io/Tavkozles/Iptv/Képernyőkép 2025-02-05 131512.png"/>
 
-    <img src="https://sancy1021.github.io/Tavkozles/Iptv/Képernyőkép 2025-02-03 131337.png"/>
+    <img src="https://sancy1021.github.io/Tavkozles/Iptv/Képernyőkép 2025-02-05 131337.png"/>
   
-    <img src="https://sancy1021.github.io/Tavkozles/Iptv/Képernyőkép 2025-02-03 131210.png"/>
+    <img src="https://sancy1021.github.io/Tavkozles/Iptv/Képernyőkép 2025-02-05 131210.png"/>
 
-    <img src="https://sancy1021.github.io/Tavkozles/Iptv/Képernyőkép 2025-02-03 131947.png"/>
+    <img src="https://sancy1021.github.io/Tavkozles/Iptv/Képernyőkép 2025-02-05 131947.png"/>
     
     </details> 
 
