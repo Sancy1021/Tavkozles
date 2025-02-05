@@ -151,7 +151,7 @@
     
     <details>
       
-    <img src="https://sancy1021.github.io/Tavkozles/Iptv/its_snapshot_0003.(1)bmp"/>
+    <img src="https://sancy1021.github.io/Tavkozles/Iptv/its_snapshot_0003 (1).bmp"/>
 
     <img src="https://sancy1021.github.io/Tavkozles/Iptv/Képernyőkép 2025-02-05 131512.png"/>
 
