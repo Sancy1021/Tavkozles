@@ -6,4 +6,4 @@
 - [07 Johansson 6700](https://sancy1021.github.io/Tavkozles/07. Johansson 6700/)
 - [Tranzisztor működésének vizsgálata](https://sancy1021.github.io/Tavkozles/Tranzisztor működésének vizsgálata/)
 - [Iptv](https://sancy1021.github.io/Tavkozles/Iptv/)
-- [Mikro_vizsga](https://github.com/Sancy1021/Tavkozles/tree/main/Mikro_vizsga/Mikro_vizsga)
+- [Mikro_vizsga](https://github.com/Sancy1021/Tavkozles/Mikro_vizsga)
