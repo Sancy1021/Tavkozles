@@ -148,5 +148,17 @@
 
 - **Mért adatok**:
   - Jelerősség (dBμV): [50.3]
-  - Jel-zaj viszony (SNR):
+    
+  <details>
+  <img src="https://sancy1021.github.io/Tavkozles/Iptv/its_snapshot_0003.(1)bmp"/>
+
+
+  <img src="https://sancy1021.github.io/Tavkozles/Iptv/Képernyőkép 2025-02-03 131512.png"/>
+
+  <img src="https://sancy1021.github.io/Tavkozles/Iptv/Képernyőkép 2025-02-03 131337.png"/>
+
+  <img src="https://sancy1021.github.io/Tavkozles/Iptv/Képernyőkép 2025-02-03 131210.png"/>
+
+  <img src="https://sancy1021.github.io/Tavkozles/Iptv/Képernyőkép 2025-02-03 131947.png"/>
+  </details> 
 
