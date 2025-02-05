@@ -159,7 +159,7 @@
   
     <img src="https://sancy1021.github.io/Tavkozles/Iptv/Képernyőkép 2025-02-05 131210.png"/>
 
-    <img src="https://sancy1021.github.io/Tavkozles/Iptv/Képernyőkép 2025-02-05 131947.png"/>
+    <img src="https://sancy1021.github.io/Tavkozles/Iptv/Képernyőkép 2025-02-05 130947.png"/>
     
     </details> 
 
