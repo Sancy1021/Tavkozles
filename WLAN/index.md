@@ -109,7 +109,7 @@ Parancs: `net use`
 
   <summary>Kép megtekintése</summary>
 
-  ![netuse](https://github.com/PavlyasB/IPhalo/blob/main/Képek/netuse.png?raw=true)
+  <img src="https://sancy1021.github.io/Tavkozles/WLAN/Képernyőkép 2025-02-06 111209.png"/>
 
 </details>
 
@@ -119,7 +119,7 @@ Parancs: `nslookup www.ipon.hu`
 
   <summary>Kép megtekintése</summary>
 
-  ![Ipon](https://github.com/PavlyasB/IPhalo/blob/main/Képek/ipon.png?raw=true)
+  <img src="https://sancy1021.github.io/Tavkozles/WLAN/Képernyőkép 2025-02-06 110954.png"/>
 
 </details>
 
@@ -128,6 +128,7 @@ Parancs: `nslookup www.ipon.hu`
   <summary>Kép megtekintése</summary>
 
   ![telcsati](https://github.com/PavlyasB/IPhalo/blob/main/Képek/telefoncsati.PNG?raw=true)
+  
 </details>
 
 ## 13. Telefon pingelése laptopról
@@ -158,4 +159,4 @@ Parancs: `nslookup www.ipon.hu`
 </details>
 
 ## Összegzés
-A tesztelés során a **Linksys router**, a **Catalyst 2950 switch** és a többi hálózati eszköz zökkenőmentesen működtek együtt. Az IP-konfigurációk kezelése, a routing tábla megjelenítése és a különböző hálózati parancsok futtatása sikeresen zajlott. A mobiltelefonnal való csatlakozás lehetővé tette a laptop és a többi eszköz közötti kommunikációt.
+A tesztelés során a **TP-LINK router**, a **Cisco switch** és a többi hálózati eszköz zökkenőmentesen működtek együtt. Az IP-konfigurációk kezelése, a routing tábla megjelenítése és a különböző hálózati parancsok futtatása sikeresen zajlott. A mobiltelefonnal való csatlakozás lehetővé tette a laptop és a többi eszköz közötti kommunikációt.
