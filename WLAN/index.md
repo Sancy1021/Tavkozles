@@ -149,7 +149,8 @@ Parancs: `nslookup www.ipon.hu`
 
 <details>
 
-![routercon1](https://github.com/PavlyasB/IPhalo/blob/main/Képek/routerjelszo.png?raw=true)
+<img src="https://sancy1021.github.io/Tavkozles/WLAN/Képernyőkép 2025-02-06 120952.png"/>
+
 
 </details>
 
