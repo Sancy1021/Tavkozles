@@ -143,11 +143,13 @@ Parancs: `nslookup www.ipon.hu`
 <details>
   <summary>Kép megtekintése</summary>
 
-<img src="https://sancy1021.github.io/Tavkozles/WLAN/Screenshot_20250206_103053_WiFi Monitor.jpg"/>
+<img src="https://sancy1021.github.io/Tavkozles/WLAN/Képernyőkép 2025-02-06 120919.png"/>
   
 </details>
 
 <details>
+
+  <summary>Kép megtekintése</summary>
 
 <img src="https://sancy1021.github.io/Tavkozles/WLAN/Képernyőkép 2025-02-06 120952.png"/>
 
@@ -158,7 +160,7 @@ Parancs: `nslookup www.ipon.hu`
 
   <summary>Kép megtekintése</summary>
 
-  ![routercon2](https://github.com/PavlyasB/IPhalo/blob/main/Képek/pingletilt.png?raw=true)
+ WLAN/Képernyőkép 2025-02-06 121012.png
   
 </details>
 
