@@ -1,0 +1,589 @@
+Microsoft Windows [Version 10.0.19045.5371]
+(c) Microsoft Corporation. Minden jog fenntartva.
+
+C:\Users\Tanulo>arp -a
+
+Interface: 192.168.0.101 --- 0xa
+  Internet Address      Physical Address      Type
+  192.168.0.1           10-fe-ed-bc-cc-4e     dynamic
+  192.168.0.255         ff-ff-ff-ff-ff-ff     static
+  224.0.0.2             01-00-5e-00-00-02     static
+  224.0.0.22            01-00-5e-00-00-16     static
+  224.0.0.251           01-00-5e-00-00-fb     static
+  224.0.0.252           01-00-5e-00-00-fc     static
+  239.255.255.250       01-00-5e-7f-ff-fa     static
+  255.255.255.255       ff-ff-ff-ff-ff-ff     static
+
+Interface: 192.168.0.100 --- 0x11
+  Internet Address      Physical Address      Type
+  192.168.0.1           10-fe-ed-bc-cc-4e     dynamic
+  192.168.0.101         70-66-55-61-a0-43     dynamic
+  192.168.0.255         ff-ff-ff-ff-ff-ff     static
+  224.0.0.2             01-00-5e-00-00-02     static
+  224.0.0.22            01-00-5e-00-00-16     static
+  224.0.0.251           01-00-5e-00-00-fb     static
+  224.0.0.252           01-00-5e-00-00-fc     static
+  239.255.255.250       01-00-5e-7f-ff-fa     static
+  255.255.255.255       ff-ff-ff-ff-ff-ff     static
+
+Interface: 192.168.56.1 --- 0x16
+  Internet Address      Physical Address      Type
+  192.168.56.255        ff-ff-ff-ff-ff-ff     static
+  224.0.0.2             01-00-5e-00-00-02     static
+  224.0.0.22            01-00-5e-00-00-16     static
+  224.0.0.251           01-00-5e-00-00-fb     static
+  224.0.0.252           01-00-5e-00-00-fc     static
+  239.1.1.1             01-00-5e-01-01-01     static
+  239.1.1.2             01-00-5e-01-01-02     static
+  239.1.1.3             01-00-5e-01-01-03     static
+  239.1.1.4             01-00-5e-01-01-04     static
+  239.1.1.5             01-00-5e-01-01-05     static
+  239.1.1.6             01-00-5e-01-01-06     static
+  239.1.1.7             01-00-5e-01-01-07     static
+  239.1.1.8             01-00-5e-01-01-08     static
+  239.1.1.10            01-00-5e-01-01-0a     static
+  239.1.1.11            01-00-5e-01-01-0b     static
+  239.1.1.12            01-00-5e-01-01-0c     static
+  239.1.1.13            01-00-5e-01-01-0d     static
+  239.1.1.14            01-00-5e-01-01-0e     static
+  239.1.1.15            01-00-5e-01-01-0f     static
+  239.1.1.16            01-00-5e-01-01-10     static
+  239.1.1.17            01-00-5e-01-01-11     static
+  239.1.1.38            01-00-5e-01-01-26     static
+  239.255.255.250       01-00-5e-7f-ff-fa     static
+
+C:\Users\Tanulo>arp -a
+
+Interface: 192.168.32.193 --- 0x11
+  Internet Address      Physical Address      Type
+  192.168.32.254        10-fe-ed-bc-cc-4e     dynamic
+  192.168.32.255        ff-ff-ff-ff-ff-ff     static
+  224.0.0.2             01-00-5e-00-00-02     static
+  224.0.0.22            01-00-5e-00-00-16     static
+  224.0.0.251           01-00-5e-00-00-fb     static
+  224.0.0.252           01-00-5e-00-00-fc     static
+  239.255.255.250       01-00-5e-7f-ff-fa     static
+  255.255.255.255       ff-ff-ff-ff-ff-ff     static
+
+Interface: 192.168.56.1 --- 0x16
+  Internet Address      Physical Address      Type
+  192.168.56.255        ff-ff-ff-ff-ff-ff     static
+  224.0.0.2             01-00-5e-00-00-02     static
+  224.0.0.22            01-00-5e-00-00-16     static
+  224.0.0.251           01-00-5e-00-00-fb     static
+  224.0.0.252           01-00-5e-00-00-fc     static
+  239.1.1.1             01-00-5e-01-01-01     static
+  239.1.1.2             01-00-5e-01-01-02     static
+  239.1.1.3             01-00-5e-01-01-03     static
+  239.1.1.4             01-00-5e-01-01-04     static
+  239.1.1.5             01-00-5e-01-01-05     static
+  239.1.1.6             01-00-5e-01-01-06     static
+  239.1.1.7             01-00-5e-01-01-07     static
+  239.1.1.8             01-00-5e-01-01-08     static
+  239.1.1.10            01-00-5e-01-01-0a     static
+  239.1.1.11            01-00-5e-01-01-0b     static
+  239.1.1.12            01-00-5e-01-01-0c     static
+  239.1.1.13            01-00-5e-01-01-0d     static
+  239.1.1.14            01-00-5e-01-01-0e     static
+  239.1.1.15            01-00-5e-01-01-0f     static
+  239.1.1.16            01-00-5e-01-01-10     static
+  239.1.1.17            01-00-5e-01-01-11     static
+  239.1.1.38            01-00-5e-01-01-26     static
+  239.255.255.250       01-00-5e-7f-ff-fa     static
+
+C:\Users\Tanulo>ipconfig
+
+Windows IP Configuration
+
+
+Ethernet adapter VirtualBox Host-Only Network:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::2685:78ae:9c3:757a%22
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . :
+
+Wireless LAN adapter Wi-Fi:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Helyi kapcsolat* 3:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Helyi kapcsolat* 12:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::9f63:719b:f2a7:b976%17
+   IPv4 Address. . . . . . . . . . . : 192.168.32.193
+   Subnet Mask . . . . . . . . . . . : 255.255.255.192
+   Default Gateway . . . . . . . . . : 192.168.32.254
+
+C:\Users\Tanulo>ipconfig /renew
+
+Windows IP Configuration
+
+No operation can be performed on Wi-Fi while it has its media disconnected.
+No operation can be performed on Helyi kapcsolat* 3 while it has its media disconnected.
+No operation can be performed on Helyi kapcsolat* 12 while it has its media disconnected.
+
+Ethernet adapter VirtualBox Host-Only Network:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::2685:78ae:9c3:757a%22
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . :
+
+Wireless LAN adapter Wi-Fi:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Helyi kapcsolat* 3:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Helyi kapcsolat* 12:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::9f63:719b:f2a7:b976%17
+   IPv4 Address. . . . . . . . . . . : 192.168.32.193
+   Subnet Mask . . . . . . . . . . . : 255.255.255.192
+   Default Gateway . . . . . . . . . : 192.168.32.254
+
+C:\Users\Tanulo>ipconfig /all
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : Fizikai-09
+   Primary Dns Suffix  . . . . . . . : kkszki.local
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : kkszki.local
+
+Ethernet adapter VirtualBox Host-Only Network:
+
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+   Physical Address. . . . . . . . . : 0A-00-27-00-00-16
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::2685:78ae:9c3:757a%22(Preferred)
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . :
+   DHCPv6 IAID . . . . . . . . . . . : 722075687
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2C-DC-03-21-B0-5C-DA-21-FD-0C
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Wireless LAN adapter Wi-Fi:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Realtek RTL8822CE 802.11ac PCIe Adapter
+   Physical Address. . . . . . . . . : 70-66-55-61-A0-43
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Helyi kapcsolat* 3:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #3
+   Physical Address. . . . . . . . . : 72-66-55-61-A0-43
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Helyi kapcsolat* 12:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #4
+   Physical Address. . . . . . . . . : F2-66-55-61-A0-43
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Physical Address. . . . . . . . . : B0-5C-DA-21-FD-0C
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::9f63:719b:f2a7:b976%17(Preferred)
+   IPv4 Address. . . . . . . . . . . : 192.168.32.193(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.192
+   Lease Obtained. . . . . . . . . . : 2025. február 6., csütörtök 10:11:02
+   Lease Expires . . . . . . . . . . : 2025. február 6., csütörtök 12:33:39
+   Default Gateway . . . . . . . . . : 192.168.32.254
+   DHCP Server . . . . . . . . . . . : 192.168.32.254
+   DHCPv6 IAID . . . . . . . . . . . : 112221402
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2C-DC-03-21-B0-5C-DA-21-FD-0C
+   DNS Servers . . . . . . . . . . . : 192.168.32.254
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+C:\Users\Tanulo>getmac
+
+Physical Address    Transport Name
+=================== ==========================================================
+B0-5C-DA-21-FD-0C   \Device\Tcpip_{A2483821-53F7-4C08-A5FB-0DC0139FF43A}
+70-66-55-61-A0-43   Media disconnected
+0A-00-27-00-00-16   \Device\Tcpip_{F4BF899F-0A81-4A99-8442-0D45D31B30CB}
+
+C:\Users\Tanulo>route print
+===========================================================================
+Interface List
+ 22...0a 00 27 00 00 16 ......VirtualBox Host-Only Ethernet Adapter
+ 10...70 66 55 61 a0 43 ......Realtek RTL8822CE 802.11ac PCIe Adapter
+ 11...72 66 55 61 a0 43 ......Microsoft Wi-Fi Direct Virtual Adapter #3
+ 16...f2 66 55 61 a0 43 ......Microsoft Wi-Fi Direct Virtual Adapter #4
+ 17...b0 5c da 21 fd 0c ......Realtek PCIe GbE Family Controller
+  1...........................Software Loopback Interface 1
+===========================================================================
+
+IPv4 Route Table
+===========================================================================
+Active Routes:
+Network Destination        Netmask          Gateway       Interface  Metric
+          0.0.0.0          0.0.0.0   192.168.32.254   192.168.32.193     35
+        127.0.0.0        255.0.0.0         On-link         127.0.0.1    331
+        127.0.0.1  255.255.255.255         On-link         127.0.0.1    331
+  127.255.255.255  255.255.255.255         On-link         127.0.0.1    331
+   192.168.32.192  255.255.255.192         On-link    192.168.32.193    291
+   192.168.32.193  255.255.255.255         On-link    192.168.32.193    291
+   192.168.32.255  255.255.255.255         On-link    192.168.32.193    291
+     192.168.56.0    255.255.255.0         On-link      192.168.56.1    281
+     192.168.56.1  255.255.255.255         On-link      192.168.56.1    281
+   192.168.56.255  255.255.255.255         On-link      192.168.56.1    281
+        224.0.0.0        240.0.0.0         On-link         127.0.0.1    331
+        224.0.0.0        240.0.0.0         On-link      192.168.56.1    281
+        224.0.0.0        240.0.0.0         On-link    192.168.32.193    291
+  255.255.255.255  255.255.255.255         On-link         127.0.0.1    331
+  255.255.255.255  255.255.255.255         On-link      192.168.56.1    281
+  255.255.255.255  255.255.255.255         On-link    192.168.32.193    291
+===========================================================================
+Persistent Routes:
+  None
+
+IPv6 Route Table
+===========================================================================
+Active Routes:
+ If Metric Network Destination      Gateway
+  1    331 ::1/128                  On-link
+ 22    281 fe80::/64                On-link
+ 17    291 fe80::/64                On-link
+ 22    281 fe80::2685:78ae:9c3:757a/128
+                                    On-link
+ 17    291 fe80::9f63:719b:f2a7:b976/128
+                                    On-link
+  1    331 ff00::/8                 On-link
+ 22    281 ff00::/8                 On-link
+ 17    291 ff00::/8                 On-link
+===========================================================================
+Persistent Routes:
+  None
+
+C:\Users\Tanulo>ping microsoft.com
+
+Pinging microsoft.com [20.236.44.162] with 32 bytes of data:
+Reply from 20.236.44.162: bytes=32 time=176ms TTL=96
+Reply from 20.236.44.162: bytes=32 time=175ms TTL=96
+Reply from 20.236.44.162: bytes=32 time=177ms TTL=97
+Reply from 20.236.44.162: bytes=32 time=177ms TTL=96
+
+Ping statistics for 20.236.44.162:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 175ms, Maximum = 177ms, Average = 176ms
+
+C:\Users\Tanulo>tracert www.ipon.hu
+
+Tracing route to www.ipon.hu [172.67.178.37]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.32.254
+  2     1 ms     *        2 ms  FOREFRONT.kkszki.local [10.224.55.250]
+  3     8 ms     6 ms     8 ms  gw.barsonyj-miskolc.edu.hu [195.199.195.22]
+  4     5 ms     5 ms     5 ms  10.0.0.1
+  5     6 ms     6 ms    65 ms  hge0-0-0-8.rtr.dataplex.hbone.hu [195.111.111.54]
+  6   181 ms     8 ms     8 ms  193.224.231.129
+  7     6 ms     7 ms     7 ms  193.224.231.129
+  8     5 ms     5 ms     5 ms  vhg-sul-sw-ci-0.wifi.hbone.hu [193.224.231.130]
+  9     6 ms     6 ms     5 ms  193.224.231.185
+ 10     6 ms     6 ms     6 ms  193.224.231.218
+ 11     9 ms     7 ms     6 ms  hungarnet-ias-geant-gw.bud.hu.geant.net [83.97.88.81]
+ 12    10 ms     7 ms     5 ms  hungarnet-ias-geant-gw.bud.hu.geant.net [83.97.88.81]
+ 13    10 ms    10 ms    11 ms  ^C
+C:\Users\Tanulo>
+C:\Users\Tanulo>netstat -an
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:5040           0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:5357           0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:7680           0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:11100          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49664          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49665          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49666          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49667          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49668          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49669          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49671          0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:11200        0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:11300        0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:11300        127.0.0.1:51004        ESTABLISHED
+  TCP    127.0.0.1:51004        127.0.0.1:11300        ESTABLISHED
+  TCP    192.168.32.193:139     0.0.0.0:0              LISTENING
+  TCP    192.168.32.193:52320   20.199.120.151:443     ESTABLISHED
+  TCP    192.168.32.193:52345   66.102.1.188:5228      ESTABLISHED
+  TCP    192.168.32.193:52346   142.251.39.46:443      ESTABLISHED
+  TCP    192.168.32.193:52351   142.250.180.234:443    ESTABLISHED
+  TCP    192.168.32.193:52352   142.250.180.234:443    ESTABLISHED
+  TCP    192.168.32.193:52353   142.251.39.35:443      ESTABLISHED
+  TCP    192.168.32.193:52354   142.250.180.238:443    ESTABLISHED
+  TCP    192.168.32.193:52355   142.251.39.42:443      ESTABLISHED
+  TCP    192.168.32.193:52356   142.251.39.42:443      ESTABLISHED
+  TCP    192.168.32.193:52362   142.251.39.35:443      ESTABLISHED
+  TCP    192.168.32.193:60026   142.251.39.78:443      TIME_WAIT
+  TCP    192.168.32.193:60045   52.123.243.41:443      TIME_WAIT
+  TCP    192.168.32.193:60061   142.251.39.69:443      ESTABLISHED
+  TCP    192.168.32.193:60082   172.64.155.209:443     ESTABLISHED
+  TCP    192.168.32.193:60083   104.18.32.47:443       ESTABLISHED
+  TCP    192.168.32.193:60094   140.82.114.26:443      ESTABLISHED
+  TCP    192.168.32.193:60115   142.251.208.132:443    ESTABLISHED
+  TCP    192.168.56.1:139       0.0.0.0:0              LISTENING
+  TCP    [::]:135               [::]:0                 LISTENING
+  TCP    [::]:445               [::]:0                 LISTENING
+  TCP    [::]:5357              [::]:0                 LISTENING
+  TCP    [::]:7680              [::]:0                 LISTENING
+  TCP    [::]:11100             [::]:0                 LISTENING
+  TCP    [::]:49664             [::]:0                 LISTENING
+  TCP    [::]:49665             [::]:0                 LISTENING
+  TCP    [::]:49666             [::]:0                 LISTENING
+  TCP    [::]:49667             [::]:0                 LISTENING
+  TCP    [::]:49668             [::]:0                 LISTENING
+  TCP    [::]:49669             [::]:0                 LISTENING
+  TCP    [::]:49671             [::]:0                 LISTENING
+  TCP    [::1]:49670            [::]:0                 LISTENING
+  UDP    0.0.0.0:123            *:*
+  UDP    0.0.0.0:3702           *:*
+  UDP    0.0.0.0:3702           *:*
+  UDP    0.0.0.0:5050           *:*
+  UDP    0.0.0.0:5353           *:*
+  UDP    0.0.0.0:5353           *:*
+  UDP    0.0.0.0:5353           *:*
+  UDP    0.0.0.0:5353           *:*
+  UDP    0.0.0.0:5353           *:*
+  UDP    0.0.0.0:5355           *:*
+  UDP    0.0.0.0:53397          *:*
+  UDP    127.0.0.1:1900         *:*
+  UDP    127.0.0.1:54722        *:*
+  UDP    127.0.0.1:59482        *:*
+  UDP    127.0.0.1:62917        *:*
+  UDP    127.0.0.1:62919        *:*
+  UDP    192.168.32.193:137     *:*
+  UDP    192.168.32.193:138     *:*
+  UDP    192.168.32.193:1900    *:*
+  UDP    192.168.32.193:54721   *:*
+  UDP    192.168.56.1:137       *:*
+  UDP    192.168.56.1:138       *:*
+  UDP    192.168.56.1:1900      *:*
+  UDP    192.168.56.1:54720     *:*
+  UDP    [::]:123               *:*
+  UDP    [::]:3702              *:*
+  UDP    [::]:3702              *:*
+  UDP    [::]:5353              *:*
+  UDP    [::]:5353              *:*
+  UDP    [::]:5353              *:*
+  UDP    [::]:5355              *:*
+  UDP    [::]:53398             *:*
+  UDP    [::1]:1900             *:*
+  UDP    [::1]:54719            *:*
+  UDP    [fe80::2685:78ae:9c3:757a%22]:1900  *:*
+  UDP    [fe80::2685:78ae:9c3:757a%22]:54717  *:*
+  UDP    [fe80::9f63:719b:f2a7:b976%17]:1900  *:*
+  UDP    [fe80::9f63:719b:f2a7:b976%17]:54718  *:*
+
+C:\Users\Tanulo>netstat -a
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    0.0.0.0:135            Fizikai-09:0           LISTENING
+  TCP    0.0.0.0:445            Fizikai-09:0           LISTENING
+  TCP    0.0.0.0:5040           Fizikai-09:0           LISTENING
+  TCP    0.0.0.0:5357           Fizikai-09:0           LISTENING
+  TCP    0.0.0.0:7680           Fizikai-09:0           LISTENING
+  TCP    0.0.0.0:11100          Fizikai-09:0           LISTENING
+  TCP    0.0.0.0:49664          Fizikai-09:0           LISTENING
+  TCP    0.0.0.0:49665          Fizikai-09:0           LISTENING
+  TCP    0.0.0.0:49666          Fizikai-09:0           LISTENING
+  TCP    0.0.0.0:49667          Fizikai-09:0           LISTENING
+  TCP    0.0.0.0:49668          Fizikai-09:0           LISTENING
+  TCP    0.0.0.0:49669          Fizikai-09:0           LISTENING
+  TCP    0.0.0.0:49671          Fizikai-09:0           LISTENING
+  TCP    127.0.0.1:11200        Fizikai-09:0           LISTENING
+  TCP    127.0.0.1:11300        Fizikai-09:0           LISTENING
+  TCP    127.0.0.1:11300        Fizikai-09:51004       ESTABLISHED
+  TCP    127.0.0.1:51004        Fizikai-09:11300       ESTABLISHED
+  TCP    192.168.32.193:139     Fizikai-09:0           LISTENING
+  TCP    192.168.32.193:52320   20.199.120.151:https   ESTABLISHED
+  TCP    192.168.32.193:52345   wb-in-f188:5228        ESTABLISHED
+  TCP    192.168.32.193:52346   bud02s38-in-f14:https  ESTABLISHED
+^C
+C:\Users\Tanulo>
+C:\Users\Tanulo>ipconfig /flushdns
+
+Windows IP Configuration
+
+Successfully flushed the DNS Resolver Cache.
+
+C:\Users\Tanulo>ipconfig /flushdns
+
+Windows IP Configuration
+
+Successfully flushed the DNS Resolver Cache.
+
+C:\Users\Tanulo>net use
+A rendszer tárolja az új kapcsolatokat.
+
+A listában nincsenek bejegyzések.
+
+
+C:\Users\Tanulo>nslookup www.ipon.hu
+Server:  UnKnown
+Address:  192.168.32.254
+
+Non-authoritative answer:
+Name:    www.ipon.hu
+Addresses:  2606:4700:3037::ac43:b225
+          2606:4700:3030::6815:2b6b
+          104.21.43.107
+          172.67.178.37
+
+
+C:\Users\Tanulo>nslookup 192.168.32.254
+Server:  UnKnown
+Address:  192.168.32.254
+
+*** UnKnown can't find 192.168.32.254: Non-existent domain
+
+C:\Users\Tanulo>netstat -foreign
+
+Displays protocol statistics and current TCP/IP network connections.
+
+NETSTAT [-a] [-b] [-e] [-f] [-n] [-o] [-p proto] [-r] [-s] [-t] [-x] [-y] [interval]
+
+  -a            Displays all connections and listening ports.
+  -b            Displays the executable involved in creating each connection or
+                listening port. In some cases well-known executables host
+                multiple independent components, and in these cases the
+                sequence of components involved in creating the connection
+                or listening port is displayed. In this case the executable
+                name is in [] at the bottom, on top is the component it called,
+                and so forth until TCP/IP was reached. Note that this option
+                can be time-consuming and will fail unless you have sufficient
+                permissions.
+  -e            Displays Ethernet statistics. This may be combined with the -s
+                option.
+  -f            Displays Fully Qualified Domain Names (FQDN) for foreign
+                addresses.
+  -n            Displays addresses and port numbers in numerical form.
+  -o            Displays the owning process ID associated with each connection.
+  -p proto      Shows connections for the protocol specified by proto; proto
+                may be any of: TCP, UDP, TCPv6, or UDPv6.  If used with the -s
+                option to display per-protocol statistics, proto may be any of:
+                IP, IPv6, ICMP, ICMPv6, TCP, TCPv6, UDP, or UDPv6.
+  -q            Displays all connections, listening ports, and bound
+                nonlistening TCP ports. Bound nonlistening ports may or may not
+                be associated with an active connection.
+  -r            Displays the routing table.
+  -s            Displays per-protocol statistics.  By default, statistics are
+                shown for IP, IPv6, ICMP, ICMPv6, TCP, TCPv6, UDP, and UDPv6;
+                the -p option may be used to specify a subset of the default.
+  -t            Displays the current connection offload state.
+  -x            Displays NetworkDirect connections, listeners, and shared
+                endpoints.
+  -y            Displays the TCP connection template for all connections.
+                Cannot be combined with the other options.
+  interval      Redisplays selected statistics, pausing interval seconds
+                between each display.  Press CTRL+C to stop redisplaying
+                statistics.  If omitted, netstat will print the current
+                configuration information once.
+
+
+C:\Users\Tanulo>
+C:\Users\Tanulo>ping 192.168.32.195
+
+Pinging 192.168.32.195 with 32 bytes of data:
+Reply from 192.168.32.195: bytes=32 time=110ms TTL=64
+Reply from 192.168.32.195: bytes=32 time=104ms TTL=64
+Reply from 192.168.32.195: bytes=32 time=326ms TTL=64
+Reply from 192.168.32.195: bytes=32 time=126ms TTL=64
+
+Ping statistics for 192.168.32.195:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 104ms, Maximum = 326ms, Average = 166ms
+
+C:\Users\Tanulo>ipconfig /release
+
+Windows IP Configuration
+
+No operation can be performed on Wi-Fi while it has its media disconnected.
+No operation can be performed on Helyi kapcsolat* 3 while it has its media disconnected.
+No operation can be performed on Helyi kapcsolat* 12 while it has its media disconnected.
+
+Ethernet adapter VirtualBox Host-Only Network:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::2685:78ae:9c3:757a%22
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . :
+
+Wireless LAN adapter Wi-Fi:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Helyi kapcsolat* 3:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Helyi kapcsolat* 12:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::9f63:719b:f2a7:b976%17
+   Default Gateway . . . . . . . . . :
+
+C:\Users\Tanulo>
