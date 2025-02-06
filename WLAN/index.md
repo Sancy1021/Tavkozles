@@ -165,15 +165,39 @@ Parancs: `nslookup www.ipon.hu`
   
 </details>
 
+<details>
+
+  <summary>Kép megtekintése</summary>
+
 <img src="https://sancy1021.github.io/Tavkozles/WLAN/Képernyőkép 2025-02-06 120936.png"/>
+
+</details>
+
+<details>
+
+  <summary>Kép megtekintése</summary>
 
 <img src="https://sancy1021.github.io/Tavkozles/WLAN/Képernyőkép 2025-02-06 121032.png"/>
 
+</details>
+
+<details>
+
+  <summary>Kép megtekintése</summary>
+
+
 <img src="https://sancy1021.github.io/Tavkozles/WLAN/Screenshot_20250206_103136_WiFi Monitor.jpg"/>
+
+</details>
+
+<details>
+
+  <summary>Kép megtekintése</summary>
+
 
 <img src="https://sancy1021.github.io/Tavkozles/WLAN/Screenshot_20250206_103215_Chrome.jpg"/>
 
-
+</details>
 
 
 ## Összegzés
