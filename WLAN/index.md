@@ -39,7 +39,7 @@ Parancs: `ipconfig /renew`
 
   <summary>Kép megtekintése</summary>
 
-  ![renew](https://github.com/PavlyasB/IPhalo/blob/main/Képek/iprenew.png?raw=true)
+    <img src="https://sancy1021.github.io/Tavkozles/WLAN/Képernyőkép 2025-02-06 110254.png"/>
 
 </details>
 
@@ -49,7 +49,7 @@ Parancs: `netstat -a`
 
   <summary>Kép megtekintése</summary>
 
-  ![netstat-a](https://github.com/PavlyasB/IPhalo/blob/main/Képek/netstat-a.png?raw=true)
+  <img src="https://sancy1021.github.io/Tavkozles/WLAN/Képernyőkép 2025-02-06 110142.png"/>
 
 </details>
 
@@ -59,7 +59,7 @@ Parancs: `ping microsoft.com`
 
   <summary>Kép megtekintése</summary>
 
-  ![microsoft](https://github.com/PavlyasB/IPhalo/blob/main/Képek/microsoftcom.png?raw=true)
+  <img src="https://sancy1021.github.io/Tavkozles/WLAN/Képernyőkép 2025-02-06 111720.png"/>
 
 </details>
 
@@ -69,7 +69,7 @@ Parancs: `tracert www.ipon.hu`
 
   <summary>Kép megtekintése</summary>
 
-  ![tracert](https://github.com/PavlyasB/IPhalo/blob/main/Képek/traceipon.png?raw=true)
+  <img src="https://sancy1021.github.io/Tavkozles/WLAN/Képernyőkép 2025-02-06 110954.png"/>
 
 </details>
 
@@ -79,8 +79,8 @@ Parancs: `netstat -f`
 
   <summary>Kép megtekintése</summary>
 
-  ![netstat-f](https://github.com/PavlyasB/IPhalo/blob/main/Képek/netstat-f.png?raw=true)
-
+ <img src="https://sancy1021.github.io/Tavkozles/WLAN/Képernyőkép 2025-02-06 114332.png"/>
+ 
 </details>
 
 ## 8. Hálózati kapcsolatok megjelenítése
