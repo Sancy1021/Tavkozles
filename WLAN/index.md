@@ -69,7 +69,7 @@ Parancs: `tracert www.ipon.hu`
 
   <summary>Kép megtekintése</summary>
 
-  <img src="https://sancy1021.github.io/Tavkozles/WLAN/Képernyőkép 2025-02-06 110954.png"/>
+  <img src="https://sancy1021.github.io/Tavkozles/WLAN/Képernyőkép 2025-02-06 120050.png"/>
 
 </details>
 
