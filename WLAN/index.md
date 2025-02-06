@@ -89,7 +89,7 @@ Parancs: `netsh interface show interface`
 
   <summary>Kép megtekintése</summary>
 
-  ![netsh](https://raw.githubusercontent.com/PavlyasB/IPhalo/refs/heads/main/K%C3%A9pek/netstat-a.png)
+  <img src="https://sancy1021.github.io/Tavkozles/WLAN/Képernyőkép 2025-02-06 115007.png"/>
 
 </details>
 
@@ -99,8 +99,8 @@ Parancs: `ipconfig /flushdns`
 
   <summary>Kép megtekintése</summary>
 
-  ![flushdns](https://github.com/PavlyasB/IPhalo/blob/main/Képek/dnsflush.png?raw=true)
-
+   <img src="https://sancy1021.github.io/Tavkozles/WLAN/Képernyőkép 2025-02-06 115135.png"/>
+   
 </details>
 
 ## 10. Csatolt hálózati meghajtók megjelenítése
