@@ -160,9 +160,21 @@ Parancs: `nslookup www.ipon.hu`
 
   <summary>Kép megtekintése</summary>
 
- WLAN/Képernyőkép 2025-02-06 121012.png
+<img src="https://sancy1021.github.io/Tavkozles/WLAN/Képernyőkép 2025-02-06 121012.png"/>
+
   
 </details>
+
+<img src="https://sancy1021.github.io/Tavkozles/WLAN/Képernyőkép 2025-02-06 120936.png"/>
+
+<img src="https://sancy1021.github.io/Tavkozles/WLAN/Képernyőkép 2025-02-06 121032.png"/>
+
+<img src="https://sancy1021.github.io/Tavkozles/WLAN/Screenshot_20250206_103136_WiFi Monitor.jpg"/>
+
+<img src="https://sancy1021.github.io/Tavkozles/WLAN/Screenshot_20250206_103215_Chrome.jpg"/>
+
+
+
 
 ## Összegzés
 A tesztelés során a **TP-LINK router**, a **Cisco switch** és a többi hálózati eszköz zökkenőmentesen működtek együtt. Az IP-konfigurációk kezelése, a routing tábla megjelenítése és a különböző hálózati parancsok futtatása sikeresen zajlott. A mobiltelefonnal való csatlakozás lehetővé tette a laptop és a többi eszköz közötti kommunikációt.
