@@ -18,7 +18,7 @@ Parancs: `ipconfig`
 <details>
   <summary>Kép megtekintése</summary>
 
- 
+ (https://Sancy1021.github.io/Tavkozles/WLAN/Képernyőkép 2025-02-06 110224.png)
 
 </details>
 
