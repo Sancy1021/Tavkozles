@@ -17,8 +17,9 @@ A tesztelés során a következő eszközökkel dolgoztam:
 Parancs: `ipconfig`
 <details>
   <summary>Kép megtekintése</summary>
+  
+  <img src="https://sancy1021.github.io/Tavkozles/WLAN/Képernyőkép 2025-02-06 110224.png"/>
 
- (https://Sancy1021.github.io/Tavkozles/WLAN/Képernyőkép 2025-02-06 110224.png)
 
 </details>
 
