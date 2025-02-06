@@ -2,7 +2,7 @@
 
 ## Bevezetés
 
-Ez a jegyzőkönyv a Linksys router beállítását és a hozzá kapcsolódó hálózati eszközök tesztelését dokumentálja. A feladat során IP-címek kezelése, routing tábla megtekintése, ping tesztek és egyéb hálózati parancsok alkalmazása történt.
+Ez a jegyzőkönyv a TP-LINK router beállítását és a hozzá kapcsolódó hálózati eszközök tesztelését dokumentálja. A feladat során IP-címek kezelése, routing tábla megtekintése, ping tesztek és egyéb hálózati parancsok alkalmazása történt.
 
 
 
@@ -18,7 +18,7 @@ Parancs: `ipconfig`
 <details>
   <summary>Kép megtekintése</summary>
 
-  ![IPCONFIG](https://github.com/PavlyasB/IPhalo/blob/main/Képek/ipconfig-all.png?raw=true)
+ 
 
 </details>
 
