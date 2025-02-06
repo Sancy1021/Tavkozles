@@ -29,7 +29,7 @@ Parancs: `ipconfig /release`
 
   <summary>Kép megtekintése</summary>
 
-  ![release](https://github.com/PavlyasB/IPhalo/blob/main/Képek/iprelease.png?raw=true)
+ <img src="https://sancy1021.github.io/Tavkozles/WLAN/Képernyőkép 2025-02-06 112945.png"/>
 
 </details>
 
