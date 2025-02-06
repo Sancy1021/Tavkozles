@@ -127,7 +127,7 @@ Parancs: `nslookup www.ipon.hu`
 <details>
   <summary>Kép megtekintése</summary>
 
-  ![telcsati](https://github.com/PavlyasB/IPhalo/blob/main/Képek/telefoncsati.PNG?raw=true)
+  <img src="https://sancy1021.github.io/Tavkozles/WLAN/Screenshot_20250206_103053_WiFi Monitor.jpg>
   
 </details>
 
@@ -135,7 +135,8 @@ Parancs: `nslookup www.ipon.hu`
 <details>
   <summary>Kép megtekintése</summary>
 
-  ![telping](https://github.com/PavlyasB/IPhalo/blob/main/Képek/Telefon-ping.png?raw=true)
+
+  
 </details>
 
 ## 14. Router konfigurációk
