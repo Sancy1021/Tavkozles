@@ -14,14 +14,14 @@ A kísérlet célja az amplitúdómoduláció (AM) előállítása és spektrál
 - **GSP-730 Spektrumanalizátor**
 - **HMO-1002 Digitális tárolós oszcilloszkóp**
 
-<details>
+
   <summary>Kép megtekintése</summary>
   
   <img src="https://sancy1021.github.io/Tavkozles/3B/grf-1300a.jpg"/>
 
   <img src="https://sancy1021.github.io/Tavkozles/3B/hmo1002-hero-1200x735-White-b.jpg"/>
 
-</details>
+
 
 ## 3. A kísérlet lépései
 
