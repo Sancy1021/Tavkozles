@@ -2,6 +2,10 @@
 
 ## 1. Bevezetés
 
+- **Mérés helye:** V3 labor
+- **Mérés időpontja:** 2025.02.10
+- **Felelős személy:** Visnyei Sándor
+
 A kísérlet célja az amplitúdómoduláció (AM) előállítása és spektrális jellemzőinek vizsgálata a GRF-1300A RF és kommunikációs tréner segítségével. A feladat során megismerkedünk az AM jel spektrumával, valamint mérjük a jelszintet, a sávszélességet és a modulációs mélységet. A kísérlet során használt eszközök és a mérési feladatok részletesen ismertetésre kerülnek.
 
 ## 2. Használt eszközök
