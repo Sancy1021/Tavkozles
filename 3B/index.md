@@ -14,16 +14,22 @@ A kísérlet célja az amplitúdómoduláció (AM) előállítása és spektrál
 - **GSP-730 Spektrumanalizátor**
 - **HMO-1002 Digitális tárolós oszcilloszkóp**
 
-
-  <summary>Kép megtekintése</summary>
   
   <img src="https://sancy1021.github.io/Tavkozles/3B/grf-1300a.jpg"/>
+
 
   <img src="https://sancy1021.github.io/Tavkozles/3B/hmo1002-hero-1200x735-White-b.jpg"/>
 
 
 
 ## 3. A kísérlet lépései
+
+
+<img src="https://sancy1021.github.io/Tavkozles/3B/Képernyőkép 2025-02-10 123326.png"/>
+
+
+<img src="https://sancy1021.github.io/Tavkozles/3B/Képernyőkép 2025-02-10 123238.png"/>
+
 
 ### Beállítások és első mérés
 
@@ -41,6 +47,12 @@ A kísérlet célja az amplitúdómoduláció (AM) előállítása és spektrál
 
 5. **Oszcilloszkóp csatlakoztatása:**
    - Az oszcilloszkópot a moduláló jel mérésére használtuk. Az oszcilloszkópon megfigyeltük és dokumentáltuk a moduláló jel **Vpp (csúcs-érték) mértékét**.
+
+
+<img src="https://sancy1021.github.io/Tavkozles/3B/meres880Mhz.jpg"/>
+
+
+<img src="https://sancy1021.github.io/Tavkozles/3B/meresVpp 1.19V.png"/>
 
 
 ### Második mérés
@@ -64,6 +76,13 @@ A kísérlet célja az amplitúdómoduláció (AM) előállítása és spektrál
 - **Modulációs mélység:** A modulációs mélység a várt 100%-os értéket mutatta.
 - **Sávszélesség:** A sávszélesség megfelelt az elméleti számításoknak a 100%-os modulációs mélység mellett.
 
+
+  <img src="https://sancy1021.github.io/Tavkozles/3B/meres900Mhz.jpg"/>
+
+
+  <img src="https://sancy1021.github.io/Tavkozles/3B/meresVpp1.24V.png"/>
+
+
 ### Második mérés (900 MHz vivőfrekvencia, 500 kHz moduláló jel, 63%-os modulációs mélység)
 
 - **Jelszint:** A mért jelszint a 900 MHz-es vivőfrekvencián a várt értékekhez közel állt.
@@ -71,6 +90,12 @@ A kísérlet célja az amplitúdómoduláció (AM) előállítása és spektrál
 - **Moduláló jel szintje:** Az oszcilloszkópon mért Vpp érték a 63%-os modulációs mélységhez illeszkedett.
 - **Modulációs mélység:** A modulációs mélység a 63%-os értéket mutatta, amely megfelelt a beállításoknak.
 - **Sávszélesség:** A sávszélesség a 63%-os modulációs mélység mellett a vártnak megfelelően alakult.
+
+  <img src="https://sancy1021.github.io/Tavkozles/3B/meres880Mhz.jpg"/>
+
+
+  <img src="https://sancy1021.github.io/Tavkozles/3B/meresVpp 1.19V.png"/>
+
 
 ## 5. Következtetések
 
