@@ -3,6 +3,8 @@
 - **Mérés helye:** V3 labor
 - **Mérés időpontja:** 2025.02.10
 - **Felelős személy:** Visnyei Sándor
+- **Évfolyam:** 13E
+  
 
 ## 1. Bevezetés
 
