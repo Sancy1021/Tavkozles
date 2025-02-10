@@ -7,3 +7,4 @@
 - [Tranzisztor működésének vizsgálata](https://sancy1021.github.io/Tavkozles/Tranzisztor működésének vizsgálata/)
 - [Iptv](https://sancy1021.github.io/Tavkozles/Iptv/)
 - [Mikro_vizsga](https://Sancy1021.github.io/Tavkozles/Mikro_vizsga)
+- [3B](https://Sancy1021.github.io/Tavkozles/3B)
