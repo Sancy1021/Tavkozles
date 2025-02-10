@@ -25,10 +25,10 @@ A kísérlet célja az amplitúdómoduláció (AM) előállítása és spektrál
 ## 3. A kísérlet lépései
 
 
-<img src="https://sancy1021.github.io/Tavkozles/3B/Képernyőkép 2025-02-10 123326.png"/>
-
-
 <img src="https://sancy1021.github.io/Tavkozles/3B/Képernyőkép 2025-02-10 123238.png"/>
+
+
+<img src="https://sancy1021.github.io/Tavkozles/3B/Képernyőkép 2025-02-10 123326.png"/>
 
 
 ### Beállítások és első mérés
@@ -47,12 +47,6 @@ A kísérlet célja az amplitúdómoduláció (AM) előállítása és spektrál
 
 5. **Oszcilloszkóp csatlakoztatása:**
    - Az oszcilloszkópot a moduláló jel mérésére használtuk. Az oszcilloszkópon megfigyeltük és dokumentáltuk a moduláló jel **Vpp (csúcs-érték) mértékét**.
-
-
-<img src="https://sancy1021.github.io/Tavkozles/3B/meres880Mhz.jpg"/>
-
-
-<img src="https://sancy1021.github.io/Tavkozles/3B/meresVpp 1.19V.png"/>
 
 
 ### Második mérés
@@ -80,7 +74,7 @@ A kísérlet célja az amplitúdómoduláció (AM) előállítása és spektrál
   <img src="https://sancy1021.github.io/Tavkozles/3B/meres900Mhz.jpg"/>
 
 
-  <img src="https://sancy1021.github.io/Tavkozles/3B/meresVpp1.24V.png"/>
+  <img src="https://sancy1021.github.io/Tavkozles/3B/meresVpp 1.24V.png"/>
 
 
 ### Második mérés (900 MHz vivőfrekvencia, 500 kHz moduláló jel, 63%-os modulációs mélység)
