@@ -25,7 +25,7 @@ A kísérlet célja az amplitúdómoduláció (AM) előállítása és spektrál
 
 ## 3. A kísérlet lépései
 
-### 3.1 Beállítások és első mérés
+### Beállítások és első mérés
 
 1. **RF vivőfrekvencia beállítása:** 
    - A GRF-1300A tréner RF kimenetén a vivőfrekvenciát **880 MHz**-re állítottuk.
@@ -42,14 +42,14 @@ A kísérlet célja az amplitúdómoduláció (AM) előállítása és spektrál
 5. **Oszcilloszkóp csatlakoztatása:**
    - Az oszcilloszkópot a moduláló jel mérésére használtuk. Az oszcilloszkópon megfigyeltük és dokumentáltuk a moduláló jel **Vpp (csúcs-érték) mértékét**.
 
-#### 3.1.1 Mérések és dokumentálás
+#### Mérések és dokumentálás
 
 - **Jelszint mérése:** A spektrumanalizátor segítségével mértük az AM jel **jelszintjét** a megfelelő frekvencián.
 - **Spektrumkép mentése és kiértékelése:** A spektrumanalizátor segítségével rögzítettük az AM jel spektrumképét, amelyet később kiértékeltünk.
 - **Moduláló jel szintjének dokumentálása:** Az oszcilloszkóp segítségével megmértük a moduláló jel **Vpp** értékét és azt dokumentáltuk.
 - **Modulációs mélység és sávszélesség meghatározása:** A spektrum alapján meghatároztuk az AM jel **modulációs mélységét** és **sávszélességét**.
 
-### 3.2 Második mérés
+### Második mérés
 
 1. **Frekvencia módosítása:**
    - A vivőfrekvenciát **900 MHz**-re állítottuk.
@@ -63,7 +63,7 @@ A kísérlet célja az amplitúdómoduláció (AM) előállítása és spektrál
 4. **Spektrumanalizátor és oszcilloszkóp csatlakoztatása:**
    - Ismét csatlakoztattuk a spektrumanalizátort és az oszcilloszkópot a méréshez.
 
-#### 3.2.1 Mérések és dokumentálás
+#### Mérések és dokumentálás
 
 - **Jelszint mérése:** A spektrumanalizátor segítségével megmértük az új beállítások szerinti **jelszintet**.
 - **Spektrumkép mentése és kiértékelése:** A spektrumanalizátor segítségével rögzítettük az új beállítások szerinti spektrumképet és kiértékeltük.
@@ -72,7 +72,7 @@ A kísérlet célja az amplitúdómoduláció (AM) előállítása és spektrál
 
 ## 4. Eredmények
 
-### 4.1 Első mérés (880 MHz vivőfrekvencia, 100 kHz moduláló jel, 100%-os modulációs mélység)
+### Első mérés (880 MHz vivőfrekvencia, 100 kHz moduláló jel, 100%-os modulációs mélység)
 
 - **Jelszint:** A mért jelszint az 880 MHz-es vivőfrekvencián a várt értékeknek megfelelően alakult.
 - **Spektrumkép:** A spektrumkép egyértelműen mutatta a mellékképeket a vivőfrekvencia körül.
@@ -80,7 +80,7 @@ A kísérlet célja az amplitúdómoduláció (AM) előállítása és spektrál
 - **Modulációs mélység:** A modulációs mélység a várt 100%-os értéket mutatta.
 - **Sávszélesség:** A sávszélesség megfelelt az elméleti számításoknak a 100%-os modulációs mélység mellett.
 
-### 4.2 Második mérés (900 MHz vivőfrekvencia, 500 kHz moduláló jel, 63%-os modulációs mélység)
+### Második mérés (900 MHz vivőfrekvencia, 500 kHz moduláló jel, 63%-os modulációs mélység)
 
 - **Jelszint:** A mért jelszint a 900 MHz-es vivőfrekvencián a várt értékekhez közel állt.
 - **Spektrumkép:** A spektrumkép a mellékképeket a vivőfrekvencia körül mutatta, amelyek a 63%-os modulációs mélység hatását tükrözik.
