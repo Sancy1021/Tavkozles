@@ -34,7 +34,7 @@ A kísérlet célja az amplitúdómoduláció (AM) előállítása és spektrál
    - A jelgenerátor segítségével **100 kHz-es szinuszjelet** állítottunk elő, amelyet a tréner moduláló bemenetére csatlakoztattunk.
 
 3. **Modulációs mélység beállítása:**
-   - **100%-os modulációs mélységet** állítottunk be.
+   - **100%-os modulációs mélységet 6dB** állítottunk be.
 
 4. **Spektrumanalizátor csatlakoztatása:**
    - A tréner RF kimenetét csatlakoztattuk a **GSP-730 Spektrumanalizátorhoz** a méréshez.
@@ -42,12 +42,6 @@ A kísérlet célja az amplitúdómoduláció (AM) előállítása és spektrál
 5. **Oszcilloszkóp csatlakoztatása:**
    - Az oszcilloszkópot a moduláló jel mérésére használtuk. Az oszcilloszkópon megfigyeltük és dokumentáltuk a moduláló jel **Vpp (csúcs-érték) mértékét**.
 
-#### Mérések és dokumentálás
-
-- **Jelszint mérése:** A spektrumanalizátor segítségével mértük az AM jel **jelszintjét** a megfelelő frekvencián.
-- **Spektrumkép mentése és kiértékelése:** A spektrumanalizátor segítségével rögzítettük az AM jel spektrumképét, amelyet később kiértékeltünk.
-- **Moduláló jel szintjének dokumentálása:** Az oszcilloszkóp segítségével megmértük a moduláló jel **Vpp** értékét és azt dokumentáltuk.
-- **Modulációs mélység és sávszélesség meghatározása:** A spektrum alapján meghatároztuk az AM jel **modulációs mélységét** és **sávszélességét**.
 
 ### Második mérés
 
@@ -58,17 +52,7 @@ A kísérlet célja az amplitúdómoduláció (AM) előállítása és spektrál
    - A moduláló jelet **500 kHz**-re módosítottuk.
 
 3. **Modulációs mélység beállítása:**
-   - **63%-os modulációs mélységet** állítottunk be.
-
-4. **Spektrumanalizátor és oszcilloszkóp csatlakoztatása:**
-   - Ismét csatlakoztattuk a spektrumanalizátort és az oszcilloszkópot a méréshez.
-
-#### Mérések és dokumentálás
-
-- **Jelszint mérése:** A spektrumanalizátor segítségével megmértük az új beállítások szerinti **jelszintet**.
-- **Spektrumkép mentése és kiértékelése:** A spektrumanalizátor segítségével rögzítettük az új beállítások szerinti spektrumképet és kiértékeltük.
-- **Moduláló jel szintjének dokumentálása:** Az oszcilloszkópon mértük a moduláló jel **Vpp** értékét, és azt dokumentáltuk.
-- **Modulációs mélység és sávszélesség meghatározása:** Az új beállítások szerint meghatároztuk a **modulációs mélységet** és a **sávszélességet**.
+   - **63%-os modulációs mélységet 10dB** állítottunk be.
 
 ## 4. Eredmények
 
