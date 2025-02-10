@@ -26,13 +26,6 @@ A kísérlet célja az amplitúdómoduláció (AM) előállítása és spektrál
 
 ## 3. A kísérlet lépései
 
-
-<img src="https://sancy1021.github.io/Tavkozles/3B/Képernyőkép 2025-02-10 123238.png"/>
-
-
-<img src="https://sancy1021.github.io/Tavkozles/3B/Képernyőkép 2025-02-10 123326.png"/>
-
-
 ### Beállítások és első mérés
 
 1. **RF vivőfrekvencia beállítása:** 
@@ -43,12 +36,6 @@ A kísérlet célja az amplitúdómoduláció (AM) előállítása és spektrál
 
 3. **Modulációs mélység beállítása:**
    - **100%-os modulációs mélységet 6dB** állítottunk be.
-
-4. **Spektrumanalizátor csatlakoztatása:**
-   - A tréner RF kimenetét csatlakoztattuk a **GSP-730 Spektrumanalizátorhoz** a méréshez.
-
-5. **Oszcilloszkóp csatlakoztatása:**
-   - Az oszcilloszkópot a moduláló jel mérésére használtuk. Az oszcilloszkópon megfigyeltük és dokumentáltuk a moduláló jel **Vpp (csúcs-érték) mértékét**.
 
 
 ### Második mérés
