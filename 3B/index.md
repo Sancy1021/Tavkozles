@@ -14,6 +14,15 @@ A kísérlet célja az amplitúdómoduláció (AM) előállítása és spektrál
 - **Spektrumanalizátor** (a tréner része)
 - **Jelgenerátor** a moduláló jel előállításához
 
+<details>
+  <summary>Kép megtekintése</summary>
+  
+  <img src="https://sancy1021.github.io/Tavkozles/3B/"/>
+
+  <img src="https://sancy1021.github.io/Tavkozles/3B/"/>
+
+</details>
+
 ## 3. A kísérlet lépései
 
 ### 3.1 Beállítások
