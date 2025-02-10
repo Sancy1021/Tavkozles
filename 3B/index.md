@@ -15,6 +15,7 @@ A kísérlet célja az amplitúdómoduláció (AM) előállítása és spektrál
 - **GRF-1300A RF és kommunikációs tréner**
 - **GSP-730 Spektrumanalizátor**
 - **HMO-1002 Digitális tárolós oszcilloszkóp**
+- **RF vezeték: 2db 100mm, 1db 800mm**
 
   
   <img src="https://sancy1021.github.io/Tavkozles/3B/grf-1300a.jpg"/>
