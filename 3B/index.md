@@ -17,9 +17,9 @@ A kísérlet célja az amplitúdómoduláció (AM) előállítása és spektrál
 <details>
   <summary>Kép megtekintése</summary>
   
-  <img src="https://sancy1021.github.io/Tavkozles/3B/"/>
+  <img src="https://sancy1021.github.io/Tavkozles/3B/grf-1300a.jpg"/>
 
-  <img src="https://sancy1021.github.io/Tavkozles/3B/"/>
+  <img src="https://sancy1021.github.io/Tavkozles/3B/hmo1002-hero-1200x735-White-b.jpg"/>
 
 </details>
 
