@@ -33,6 +33,21 @@
   - Spektrum analizátor képe
     
   <img src="https://sancy1021.github.io/Tavkozles/Műhold/its_snapshot_0001.bmp"/>
+
+  # M1 HD – Kódolt Csatorna
+
+Ez a kép az **M1 HD** televíziócsatorna műsorának vételi adatait mutatja egy műholdas vagy kábeles dekóderen keresztül. A képernyőn egy figyelmeztetés látható, amely jelzi, hogy a csatorna **kódolt (Scrambled)**, és csak jogosultsággal rendelkező előfizetők számára érhető el.
+
+## **Csatorna adatai:**
+- **Szolgáltatás ID:** 101 (**M1 HD**)
+- **Hálózat ID:** 158
+- **ONID:** 106
+- **Felbontás:** 1920×1080 (Full HD)
+
+## **Videó és Audió adatok:**
+- **VPID / Bitráta:** 1101 / **3.989220 Mb/s**
+- **APID / Bitráta:** 1201 / **0.415802 Mb/s**
+
   
   <img src="https://sancy1021.github.io/Tavkozles/Műhold/its_snapshot_0002.bmp"/>
   
@@ -63,6 +78,8 @@
 
 ### 6. Jelszintmérés és dokumentáció 
 
+<img src="https://sancy1021.github.io/Tavkozles/Műhold/its_snapshot_0002.bmp"/>
+ 
 # Műholdas Jelszintmérés – Eutelsat 9A
 
 ## Mérési adatok:
