@@ -46,3 +46,32 @@
 - Jel bevezetése a laborba
 - LNB és set-top box összekapcsolása
 - Set-top box és TV csatlakoztatása
+
+
+### 5. Set-top box beállítása és csatornakeresés 
+- Nyelv és régió beállítása
+- Műhold és transzponder beállítása
+- Automatikus csatornakeresés
+- **Mérések és dokumentáció:**
+  - Jelszintek és jelminőség
+  - Transzponder adatok
+  - Kimenő feszültség az LNB-re
+  - Időjárási körülmények: napos
+
+### 6. Jelszintmérés és dokumentáció 
+
+# Műholdas Jelszintmérés – Eutelsat 9A
+
+## Mérési adatok:
+- **Frekvencia:** 11958 MHz  
+- **Polarizáció:** Vertikális  
+- **Szimbólumsebesség:** 27500 kS/s  
+- **Jelerősség:** 83.2 dBµV  
+- **MER (Modulation Error Ratio):** 11.9 dB  
+- **CBER (Channel Bit Error Rate):** 2.7E-2  
+
+## Értékelés:
+A mérés eredményei alapján a jelvétel stabil, de a minőség nem optimális, mivel a **MER érték 11.9 dB**, ami a határérték közelében van a jó vételhez.  
+Ha szükséges, az **antennát finomhangolni lehet** a jobb jelerősség és minőség érdekében.
+
+
