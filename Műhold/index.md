@@ -49,10 +49,27 @@ Ez a kép az **M1 HD** televíziócsatorna műsorának vételi adatait mutatja e
 - **APID / Bitráta:** 1201 / **0.415802 Mb/s**
 
   
-  <img src="https://sancy1021.github.io/Tavkozles/Műhold/its_snapshot_0002.bmp"/>
+
+
+
   
   <img src="https://sancy1021.github.io/Tavkozles/Műhold/its_snapshot_0003.bmp"/>
-     
+  
+  ## **Műholdas vétel mérési adatai:**  
+
+- **Frekvencia:** 1358.0 MHz  
+- **Műhold:** Eutelsat 9A  
+- **Transzponder:** 11958V27500  
+- **Moduláció:** DVB-S2 / 8PSK / 2/3  
+- **Jelszint:** **83.0 dBuV**  
+- **Zajmargó:** 4.7 dB  
+- **MER (Modulációs hibaarány):** 11.5 dB  
+- **CBER (Bitek előtti hibaarány):** 2.12E-2  
+- **VBER (Végső hibaarány):** 0.00E-6  
+- **Csomaghiba:** 0  
+- **Eltelt idő:** 4 másodperc  
+
+  ---
   - Jelszintek és jelminőség
   - Antenna pozíciók azimut195,7°  eleváció 33,6°
   - Kimenő feszültség és áramerősség az LNB-nél
