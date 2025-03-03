@@ -32,9 +32,9 @@
 - **Mérések és dokumentáció:**
   - Spektrum analizátor képe
   <img src="https://sancy1021.github.io/Tavkozles/Műhold/its_snapshot_0001.bmp"/>
-  <img src="https://sancy1021.github.io/Tavkozles/3B/grf-1300a.jpg"/>
-  <img src="https://sancy1021.github.io/Tavkozles/3B/grf-1300a.jpg"/>
-    
+  <img src="https://sancy1021.github.io/Tavkozles/Műhold/its_snapshot_0002.bmp"/>
+  <img src="https://sancy1021.github.io/Tavkozles/Műhold/its_snapshot_0003.bmp"/>
+     
   - Jelszintek és jelminőség
   - Antenna pozíciók azimut195,7°  eleváció 33,6°
   - Kimenő feszültség és áramerősség az LNB-nél
