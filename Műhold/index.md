@@ -164,7 +164,35 @@ A képernyő jobb oldalán látható **Konstellációs diagram** megmutatja a di
 ---
 *Ez a kép egy műholdas jelerősség és minőségmérő kijelzőjéről készült, amely fontos információkat nyújt egy adott műholdas csatorna vételének állapotáról.*
 
+<img src="https://sancy1021.github.io/Tavkozles/Műhold/20250304_084705.jpg"/>
 
+## Áttekintés
+Ez a kép egy műholdas jelkereső (**Signal Finder**) képernyőt mutat, amely a vevőegység által érzékelt műholdas adás minőségét és erősségét méri. A rendszer a **28.2E Astra 2E/2F/2G** műholdat vizsgálja az **11038 V 23000 2/3** transzponderrel.
+
+## Technikai adatok
+
+| Paraméter         | Érték |
+|------------------|------|
+| **SNR (Signal-to-Noise Ratio)** | 80.2 dB |
+| **AGC (Automatic Gain Control)** | 99% |
+| **BER (Bit Error Rate)** | 0 |
+| **Lock (Jelzárás)** | ✅ (Zárolva) |
+| **Tuner típusa** | DVB-S2 NIM (DVB-S2X) |
+| **Keresési mód** | Előre beállított transzponder (Predefined transponder) |
+| **Műhold** | 28.2E Astra 2E/2F/2G |
+| **Transzponder** | 11038 V 23000 2/3 |
+
+## Értelmezés
+- **SNR (Jel-zaj arány)**: 80.2 dB, ami kiváló jelerősséget jelent.
+- **AGC (Automatikus erősítés szabályzás)**: 99%, ami azt mutatja, hogy a rendszer maximálisan beállította az erősítést a lehető legjobb vétel érdekében.
+- **BER (Bithibaarány)**: 0, ami azt jelzi, hogy nincs érzékelhető jelhiba.
+- **Lock (Jelzárás)**: A vevőegység stabilan beállt a jelre.
+
+## Felhasználói lehetőségek
+A képernyő jobb oldalán egy műholdas antenna ikon látható egy iránytűvel, amely arra utal, hogy a felhasználó új keresést indíthat az **OK** gomb megnyomásával, vagy kiléphet az **EXIT** gombbal.
+
+---
+*Ez a kijelző egy műholdvevő beállítási és diagnosztikai funkcióját mutatja, amely segítséget nyújt a megfelelő műholdas jel megtalálásában és stabil vételében.*
 
 
 
