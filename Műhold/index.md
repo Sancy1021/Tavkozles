@@ -131,3 +131,43 @@ A képernyő jobb alsó sarkában egy információs panel jelenik meg, amely a c
 - **AC3** – Dolby Digital (AC3) hangformátum
 
 
+<img src="https://sancy1021.github.io/Tavkozles/Műhold/its_snapshot_0009.bmp"/>
+
+## Áttekintés
+Ez a kép egy műholdas jelmonitorozó eszköz kijelzőjéről készült. Az eszköz egy **Astra 1** műholdas frekvenciát figyel (1724.0 MHz), és egy DVB-S2 modulációjú jelet elemez.
+
+## Technikai adatok
+
+| Paraméter          | Érték |
+|--------------------|----------------|
+| **Frekvencia**     | 1724.0 MHz |
+| **Műhold**        | Astra 1 |
+| **Transzponder**  | 12324V29700 |
+| **Moduláció**     | DVB-S2 / 8PSK / 2/3 |
+| **Jelerősség**    | 88.0 dBuV |
+| **Zajmargó (Noise Margin)** | 6.5 |
+| **MER (Modulation Error Ratio)** | 13.3 dB |
+| **CBER (Channel Bit Error Rate)** | 7.07E-3 |
+| **VBER (Viterbi Bit Error Rate)** | 0.00E-6 |
+| **Csomaghibák (Packet Errors)** | 0 |
+| **Eltelt idő** | 5 másodperc |
+
+## Konstellációs Diagram
+A képernyő jobb oldalán látható **Konstellációs diagram** megmutatja a digitális jel minőségét. A piros pontok elhelyezkedése a négypontos rácson az adás stabilitására és zajszintjére utal.
+
+## Értelmezés
+- **Jelerősség (Power)**: Erős (88.0 dBuV)
+- **MER (Modulation Error Ratio)**: Közepes (13.3 dB)
+- **CBER és VBER**: A CBER érték viszonylag magas (7.07E-3), ami hibás bitarányt jelez, míg a VBER értéke kiváló (0.00E-6), ami azt jelenti, hogy a hibajavító algoritmusok megfelelően működnek.
+- **Konstellációs diagram**: A pontok szórása jelzi a jelerősség és a zajhatások egyensúlyát.
+
+---
+*Ez a kép egy műholdas jelerősség és minőségmérő kijelzőjéről készült, amely fontos információkat nyújt egy adott műholdas csatorna vételének állapotáról.*
+
+
+
+
+
+
+
+
