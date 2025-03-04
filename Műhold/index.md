@@ -112,3 +112,22 @@ A mérés eredményei alapján a jelvétel stabil, de a minőség nem optimális
 Ha szükséges, az **antennát finomhangolni lehet** a jobb jelerősség és minőség érdekében.
 
 
+<img src="https://sancy1021.github.io/Tavkozles/Műhold/its_snapshot_0007.bmp"/>
+
+A képernyő jobb alsó sarkában egy információs panel jelenik meg, amely a csatorna technikai adatait tartalmazza:
+
+| Paraméter         | Érték |
+|-------------------|----------------|
+| **Service ID**    | 1003 |
+| **Network ID**    | Unknown |
+| **Resolution**    | 1920×1080 (Full HD) |
+| **VPID / Bitrate** | 512 / 3.854752 Mb/s |
+| **APID / Bitrate** | 662 / 0.358582 Mb/s |
+
+## Egyéb jellemzők
+- **FREE** – Ingyenes csatorna
+- **HD** – Nagy felbontású adás
+- **H264** – H.264 videókódolás
+- **AC3** – Dolby Digital (AC3) hangformátum
+
+
