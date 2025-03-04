@@ -176,7 +176,7 @@ Ez a kép egy műholdas jelkereső (**Signal Finder**) képernyőt mutat, amely 
 | **SNR (Signal-to-Noise Ratio)** | 80.2 dB |
 | **AGC (Automatic Gain Control)** | 99% |
 | **BER (Bit Error Rate)** | 0 |
-| **Lock (Jelzárás)** | ✅ (Zárolva) |
+| **Lock (Jelzárás)** | (Zárolva) |
 | **Tuner típusa** | DVB-S2 NIM (DVB-S2X) |
 | **Keresési mód** | Előre beállított transzponder (Predefined transponder) |
 | **Műhold** | 28.2E Astra 2E/2F/2G |
