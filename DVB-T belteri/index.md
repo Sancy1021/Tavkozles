@@ -1,1 +1,34 @@
+# Távközlési Technikus Vizsga Jegyzőkönyv
 
+## Vizsgafeladat: DVB-T beltéri
+
+### Vizsgázó neve: Visnyei Sándor
+### Dátum: 2025.03.24
+### A mérést vezete: Sándor Péter
+### Csoport: GYAK 1
+### Évfolyam: 13E
+### A mérés helyszíne: V3
+
+## 1. Szükséges eszközök
+
+- **Antenna**: Beltéri vagy kültéri antenna (Smart HDD 550)
+- **Set-top box**: Nytro Box
+- **Mérőműszer**: METEK HDD digitális TV jelmérő
+- **Koaxiális kábelek és csatlakozók** (már előkészítve egy másik vizsgafeladat során)
+- **Jelosztó**: Jelosztó a mérési pontok kialakításához
+- **Szerelési eszközök**: Iránytű, [maps.google.com](https://maps.google.com)
+
+A **Miskolc, Avasi adótorony** csatornakiosztása alapján a következő csatornát választottuk a teszteléshez:
+
+- **Csatorna kiválasztása**: 634 MHz
+- **Adás**: Miskolc Városi TV
+- **Sugárzási teljesítmény**: 0,126 kW (ez a leggyengébben sugárzó csatorna)
+
+### Miért ezt a csatornát választottuk?
+
+A 634 MHz-es csatornát azért választottuk, mert ezen az adáson van a leggyengébb jel, ami lehetőséget biztosít arra, hogy ha ezen a csatornán a legjobb vételt biztosítjuk, akkor valószínűleg a többi erősebben sugárzó adó is jól fog működni. Így ha ezen a csatornán sikerül biztosítani a stabil jelet, akkor a többi adónál is jobb vétel érhető el.
+
+### Miskolc Avasi csatornakiosztás:
+
+- 634 MHz - Miskolc Városi TV
+- (Egyéb multiplexek és adók, a vizsgált frekvenciák és paraméterek a **fmdx.hu** oldalon elérhetők.)
