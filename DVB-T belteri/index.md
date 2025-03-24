@@ -42,7 +42,7 @@ A METEK HDD digitális TV jelmérővel végzett mérések előtt a csillapítót
 
 - **Frekvencia**: 530 MHz
 
-  
+ <img src="https://sancy1021.github.io/Tavkozles/"/>  
 
 ### Mért adatok:
 
@@ -52,8 +52,6 @@ A METEK HDD digitális TV jelmérővel végzett mérések előtt a csillapítót
 - **Csillapítás (dB)**: [Írja ide a csillapítás értékét, ha van]
 
 A csillapítótag csatlakoztatása előtt mértük a jelet, hogy meghatározzuk a vételi minőséget a kezdeti állapotban. Az értékek rögzítése után a csillapítótag csatlakoztatására került sor, hogy tovább finomhangoljuk a vételt.
-
----
 
 Ezek az adatok alapot adnak a további mérésekhez és a finomhangoláshoz, amelyeket a csillapítótag csatlakoztatása után végeztünk el.
 
