@@ -42,7 +42,7 @@ A METEK HDD digitális TV jelmérővel végzett mérések előtt a csillapítót
 
 - **Frekvencia**: 530 MHz
 
- <img src="https://sancy1021.github.io/Tavkozles/"/>  
+ <img src="https://sancy1021.github.io/Tavkozles/DVB-T belteri/its_snapshot_0026.bmp"/>  
 
 ### Mért adatok:
 
