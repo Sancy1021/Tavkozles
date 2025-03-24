@@ -33,7 +33,8 @@ A 634 MHz-es csatornát azért választottuk, mert ezen az adáson van a leggyen
 
 - 634 MHz - Miskolc Városi TV
 - (Egyéb multiplexek és adók, a vizsgált frekvenciák és paraméterek a **fmdx.hu** oldalon elérhetők.)
+![Képernyőkép 2025-03-24 103510](https://github.com/user-attachments/assets/3958a253-8d9e-4828-97f2-92cacf4d4370)
 
-   <img src="https://sancy1021.github.io/Tavkozles/DVB-T belteri/Képernyőkép 2025-03-24 103510.png"/>
+
 
 
