@@ -35,6 +35,29 @@ A 634 MHz-es csatornát azért választottuk, mert ezen az adáson van a leggyen
 - (Egyéb multiplexek és adók, a vizsgált frekvenciák és paraméterek a **fmdx.hu** oldalon elérhetők.)
 ![Képernyőkép 2025-03-24 103510](https://github.com/user-attachments/assets/3958a253-8d9e-4828-97f2-92cacf4d4370)
 
+A képen látható az iskolai építmény és az adótorony közötti távolság.
+![Kando-avaskilato](https://github.com/user-attachments/assets/525b1796-37bc-410f-9daf-09776e05eaa6)
+
+A METEK HDD digitális TV jelmérővel végzett mérések előtt a csillapítótag csatlakoztatása nélkül az alábbi adatokat rögzítettük:
+
+- **Frekvencia**: 530 MHz
+
+  
+
+### Mért adatok:
+
+- **Jelszint**: [Írja ide a mért jelszintet, dBμV]
+- **Jel-zaj viszony (SNR)**: [Írja ide a mért SNR értéket, dB]
+- **Modulation Error Ratio (MER)**: [Írja ide a mért MER értéket, dB]
+- **Csillapítás (dB)**: [Írja ide a csillapítás értékét, ha van]
+
+A csillapítótag csatlakoztatása előtt mértük a jelet, hogy meghatározzuk a vételi minőséget a kezdeti állapotban. Az értékek rögzítése után a csillapítótag csatlakoztatására került sor, hogy tovább finomhangoljuk a vételt.
+
+---
+
+Ezek az adatok alapot adnak a további mérésekhez és a finomhangoláshoz, amelyeket a csillapítótag csatlakoztatása után végeztünk el.
+
+
 
 
 
