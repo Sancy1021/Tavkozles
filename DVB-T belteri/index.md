@@ -17,6 +17,7 @@
 - **Koaxiális kábelek és csatlakozók** (már előkészítve egy másik vizsgafeladat során)
 - **Jelosztó**: Jelosztó a mérési pontok kialakításához
 - **Szerelési eszközök**: Iránytű, [maps.google.com](https://maps.google.com)
+![20250324_100850](https://github.com/user-attachments/assets/afb1290d-6234-41e3-83c6-bc33d5a56b9f)
 
 A **Miskolc, Avasi adótorony** csatornakiosztása alapján a következő csatornát választottuk a teszteléshez:
 
