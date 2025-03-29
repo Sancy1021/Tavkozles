@@ -79,11 +79,11 @@ A mérés célja, hogy a hallgatók:
 ---
 
 ## Mérési Eredmények
-| **Mérési paraméter** | **RF frekvencia (MHz)** | **Moduláció típusa** | **Sávszélesség (MHz)** | **Jelszint (dBm)** | **Bitsebesség (Mbps)** | **MER érték (dB)** |
-|-----------------------|-------------------------|-----------------------|-------------------------|--------------------|------------------------|-----------------|
-| **Mérési eredmény 1** | 474                     | QPSK                  | 8                       | -30.7              | 3,8Mbps                | 39.9dB          |      
-| **Mérési eredmény 2** | 474                     | 16-QAM                | 8                       | -31.2              | 7.7Mbps                | 35.5dB          |  
-| **Mérési eredmény 3** | 474                     | 64-QAM                | 8                       | -31.6              | 12.9Mbps               | 39.9dB          |
+|**Mérési paraméter**   |**RF frekvencia (MHz)**  |**Moduláció típusa**   |**Sávszélesség (MHz)**   |**Jelszint (dBm)**  |**Bitsebesség (Mbps)**  |**MER érték (dB)**|
+|-----------------------|-------------------------|-----------------------|-------------------------|--------------------|------------------------|------------------|
+| **Mérési eredmény 1** | 474                     | QPSK                  | 8                       | -30.7              | 3,8Mbps                | 39.9dB           |      
+| **Mérési eredmény 2** | 474                     | 16-QAM                | 8                       | -31.2              | 7.7Mbps                | 35.5dB           |  
+| **Mérési eredmény 3** | 474                     | 64-QAM                | 8                       | -31.6              | 12.9Mbps               | 39.9dB           |
 
 ---
 
